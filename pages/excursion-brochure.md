@@ -2,6 +2,8 @@ Mary Pat Sjostrom • Dale Hathaway
 ms Westerdam
 March 16, 2025
 
+[[/Excursions overview.md]]
+
 cruise introduction
 
 shore excursions Page 1 of 114

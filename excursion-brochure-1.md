@@ -1,9 +1,8 @@
 Tauranga (Rotorua), New Zealand - Monday, March 17, 2025: 
 
-Site of fierce Maori wars, Tauranga
-today is a peaceful city in the heart of kiwifruit-growing country. Farther afield: Rotorua, with its spouting geysers and bubbling mud pools,
-the Waitomo Glow Worm Caves and nocturnal kiwi houses.
-Glorious Bay of Plenty: Rich Land,
+Site of fierce Maori wars, Tauranga today is a peaceful city in the heart of kiwifruit-growing country. Farther afield: Rotorua, with its spouting geysers and bubbling mud pools, the Waitomo Glow Worm Caves and nocturnal kiwi houses.
+
+## Glorious Bay of Plenty: Rich Land,
 Rich Culture
 Departs: 10:00 AM (Waitlisted)
 Approximately 4½ Hours
@@ -19,6 +18,7 @@ central Polynesia, more than 650 years ago.
 Hear their stories and enjoy their songs and
 dances as they trace their family history
 through the generations.
+
 Tour past kiwifruit orchards and walk under
 the green and gold kiwifruit vines with your
 guide and marvel at the extraordinary volume
@@ -26,11 +26,13 @@ and quality of fruit produced here. Almost all
 of New Zealand's immense and world-famous
 kiwifruit crop is grown on this small pocket of
 land.
+
 A freshly-prepared morning snack will be
 served at a local village community hall,
 where you'll have an opportunity to shop for
 kiwifruit-inspired gifts and souvenirs at the
 boutique marketplace here.
+
 Another special treat is an exclusive visit to
 the stunning coastal headland at Maketu. This
 is the location of an earlier Maori fortification
@@ -43,8 +45,7 @@ neighboring Maori tribes.
 Enjoy a classic kiwi packed lunch at the lake's
 edge.
 
-Glow Worm Kayaking & Thermal
-Hot Pool
+## Glow Worm Kayaking & Thermal Hot Pool
 
 Wear your swimsuit under your clothing;
 bring a towel, sunscreen and a hat. Bring a
@@ -84,7 +85,7 @@ relaxing style.
 
 Notes:
 
-Kiwifruit & Tauranga Sights
+## Kiwifruit & Tauranga Sights
 Departs: 9:15 AM
 Approximately 4¼ Hours
 Adult $149.95; Child $109.95
@@ -102,9 +103,8 @@ navigation aid by early sailors).
 A panoramic drive takes you through
 downtown Tauranga, crossing Tauranga
 Harbour to reach Te Puke (pronounced tay
-pookey ) -- the kiwifruit ('kiwi') capital of the
+pookey ) -- the kiwifruit ('kiwi') capital of the world.
 
-world.
 Enjoy a drive through a stunning orchard
 and learn all about the endemic combination
 of climate and soils that are perfect for
@@ -123,7 +123,7 @@ overlooking the Bay of Plenty.
 Notes:
 Wear comfortable walking shoes.
 
-Lake Rotoiti Cruise & Hot Pools
+## Lake Rotoiti Cruise & Hot Pools
 Encounter
 Departs: 8:30 AM (Waitlisted), 11:30 AM
 Approximately 4½ Hours
@@ -136,7 +136,8 @@ in the geothermal sands of Manupirua.
 
 Page 7 of 114
 
-Tauranga (Rotorua), New Zealand - Monday, March 17, 2025
+## Tauranga (Rotorua), New Zealand - Monday, March 17, 2025
+
 Explore the natural bush-clad shoreline from
 the sparkling fresh waters of Lake Rotoiti as
 you cruise by comfortable catamaran. Whilst
@@ -144,6 +145,7 @@ enjoying a light snack, and your
 knowledgeable skipper will share stories of
 the people, history and cultural tapestry of life
 around the lake.
+
 Cruising the sheltered, calm lake is combined
 with a geothermal bathing experience. Hop
 into the lake-edge hot pools to bathe in
@@ -152,7 +154,9 @@ only by boat. Add to your experience with a
 mind-bending walk in the geothermally
 heated sand along the shores of the lake -- an
 unusual sensation indeed.
+
 Notes:
+
 The coach ride from port to Lake Rotoiti is
 approximately 1 hour 15 mins. Wear your
 swimsuit under your clothing; bring a towel,
@@ -184,7 +188,7 @@ Return to Mt Maunganui via the Minden
 Lookout and around the shores of beautiful
 Tauranga Harbour.
 
-Maori Marae Visit
+## Maori Marae Visit
 Departs: 10:00 AM (Waitlisted)
 Approximately 4¼ Hours
 Adult $139.95; Child $79.95
@@ -204,8 +208,7 @@ Photography is restricted during the powhiri
 participants will be asked to remove their hats
 and shoes when entering the meetinghouse.
 
-National Kiwi Hatchery &
-Agrodome
+## National Kiwi Hatchery & Agrodome
 Departs: 9:15 AM
 Approximately 7 Hours
 Adult $239.95; Child $199.95
@@ -218,6 +221,7 @@ starts with a scenic drive through kiwi
 (kiwifruit) country, is guided by enthusiastic
 kiwis (New Zealanders), and ends with a visit
 to a kiwi (bird) hatchery.
+
 Visit the award-winning Agrodome -- New
 Zealand's most popular farm experience. Set
 in the heart of 350 acres of lush farmland, yet
@@ -229,6 +233,7 @@ from aboard an all-weather, all-terrain vehicle
 possibly hand-feed loads of friendly animals,
 including Romney sheep, cattle, deer, llamas
 and alpacas.
+
 Enjoy a buffet lunch in the Farmyard Cafe
 featuring kiwi-inspired food.
 You'll also visit the National Kiwi Hatchery -New Zealand's foremost kiwi (bird)
@@ -243,7 +248,7 @@ This is an educational, thought-provoking
 and utterly charming experience where you'll
 learn all about kiwis -- all three of them!
 
-Rangitaiki Rafting Adventure
+## Rangitaiki Rafting Adventure
 Departs: 8:30 AM
 Approximately 8 Hours
 Adult $269.95; Child $249.95
@@ -276,13 +281,13 @@ if you wish.
 Notes:
 Page 8 of 114
 
-Tauranga (Rotorua), New Zealand - Monday, March 17, 2025
+Tauranga (Rotorua), New Zealand - Monday, March 17, 2025
 
 Minimum age is 10 years. The coach ride
 from port to Rangitaiki Rafting is
 approximately 2 hours each way.
 
-Rotorua & Polynesian Spa
+## Rotorua & Polynesian Spa
 Experience
 Departs: 8:30 AM
 Approximately 8 Hours
@@ -317,7 +322,9 @@ kiwifruit country. Take in local orchards and
 farmland as you return to the coastal
 peninsula of Mt Maunganui and the Port of
 Tauranga.
+
 Notes:
+
 Wear your swimsuit under your clothing;
 bring a towel, reef-safe/biodegradable
 sunscreen, light clothing to act as a full coverup for further protection from the sun, and a
@@ -325,7 +332,7 @@ hat. The spa features luxury changing rooms,
 security lockers, towels, soap, shampoo, and
 hair dryers.
 
-Skyline Gondola & Luge
+## Skyline Gondola & Luge
 Departs: 9:45 AM
 Approximately 6 hours
 Adult $149.95; Child $119.95
@@ -402,7 +409,7 @@ fast-growing city of Tauranga as we transition
 from urban to rural, to the domain of the
 dairy farm.
 
-Tastes of Tauranga
+## Tastes of Tauranga
 Departs: 10:45 AM
 Approximately 4½ Hours
 Price $229.95
@@ -427,7 +434,8 @@ avocado orchards, both of which are a
 significant part of the horticulture industry
 Page 9 of 114
 
-Tauranga (Rotorua), New Zealand - Monday, March 17, 2025
+Tauranga (Rotorua), New Zealand - Monday, March 17, 2025
+
 here in the Bay of Plenty. Surprise, our next
 stop is a private avocado orchard where we
 take a short stroll amongst the trees with our
@@ -450,8 +458,7 @@ amazing super food was first grown
 commercially in New Zealand, to the seaside
 settlement of Maketu.
 
-Te Pa Tu – A Connection to the
-Land, History & Culture
+## Te Pa Tu – A Connection to the Land, History & Culture
 Departs: 9:15 AM
 Approximately 6 Hours
 Adult $239.95; Child $179.95
@@ -466,9 +473,7 @@ Award.
 to the Mori people like you’ve never
 experienced before.
 
-Te Puia Geyser & Maori Arts
-
-The Living Village Experience
+## Te Puia Geyser & Maori Arts The Living Village Experience
 
 Witness the powerful Haka Powhiri
 (welcome) as you enter the village, then as
@@ -559,13 +564,13 @@ vegetarians, as meat and vegetables are
 cooked together. Wear comfortable walking
 shoes.
 
-The Kaitiaki (Guardians) of Te P T Mori
-Village welcome you to their traditional
-whenua (land), where you’ll feel a connection
+## The Kaitiaki (Guardians) of Te P T Mori Village welcome you to their traditional whenua (land), where you’ll feel a connection
+
 Page 10 of 114
 
-Tauranga (Rotorua), New Zealand - Monday, March 17, 2025
-Truffle Treasure
+Tauranga (Rotorua), New Zealand - Monday, March 17, 2025
+
+## Truffle Treasure
 
 Waihi Gold Discovery Experience
 
@@ -611,10 +616,13 @@ After a display from the truffle hunting dogs,
 enjoy a tasting of truffle-infused delights,
 including cheeses, honey, butter and ice
 cream.
+
 Travel along the coastal beach route to Mt
 Maunganui and beautiful Pilot Bay en route
 back to the pier.
+
 Notes:
+
 Wear comfortable walking shoes.
 
 Enjoy an informative tour of Waihi's iconic
@@ -660,9 +668,12 @@ award-winning Gold Discovery Center. In
 
 Page 11 of 114
 
-Napier, New Zealand - Tuesday, March 18, 2025: A city of vision, rebuilt in the striking, clean style of art
+Napier, New Zealand - Tuesday, March 18, 2025: 
+
+A city of vision, rebuilt in the striking, clean style of art
 deco after a devastating earthquake in 1931 and reinvented as a center for gourmet food and wines.
-Art Deco Distillery
+
+## Art Deco Distillery
 
 Art Deco Drive & Walk
 
@@ -677,8 +688,7 @@ Departs: 1:30 PM
 Approximately 3 Hours
 Adult $109.95; Child $79.95
 
-Cape Kidnappers Station &
-Gannet Safari
+## Cape Kidnappers Station & Gannet Safari
 
 This introduction to Napier pairs up the city's
 Art Deco history and a gin distillery and
@@ -772,7 +782,7 @@ meal. Please note that the drive to Cape
 Kidnappers is approximmately 45 minutes
 each way.
 
-Delicious Hawke's Bay
+## Delicious Hawke's Bay
 Departs: 12:45 PM (Waitlisted)
 Approximately 4½ Hours
 Adult $99.95; Child $79.95
@@ -798,7 +808,8 @@ day.
 
 Page 12 of 114
 
-Napier, New Zealand - Tuesday, March 18, 2025
+Napier, New Zealand - Tuesday, March 18, 2025
+
 In the pretty town of Havelock North, stop at
 the Arataki Honey Centre for a taste of Rush
 Munro Ice Cream. You will have the
@@ -819,7 +830,7 @@ and stories, including tales of the devastating
 Notes:
 Tour order may vary.
 
-E-Bike & Wine
+## E-Bike & Wine
 Departs: 1:00 PM
 Approximately 3½ Hours
 Price $259.95
@@ -863,7 +874,7 @@ is exempt from the on-board corkage fee
 (offer limited to one bottle of wine per
 person).
 
-Hawke's Bay Express
+## Hawke's Bay Express
 Departs: 12:30 PM (Waitlisted), 2:15 PM
 (Waitlisted), 4:00 PM
 Approximately 1½ Hours
@@ -911,7 +922,7 @@ guesys with mobility restrictions who can
 manage a 50 yard walk. There is just one 10
 inch step to board the trolley.
 
-Hawkes Bay Wine & Cheese
+## Hawkes Bay Wine & Cheese
 Departs: 1:00 PM (Waitlisted)
 Approximately 4 Hours
 Adult $129.95; Child $119.95
@@ -936,7 +947,8 @@ Notes:
 Guests must be aged 18+ years to participate
 Page 13 of 114
 
-Napier, New Zealand - Tuesday, March 18, 2025
+Napier, New Zealand - Tuesday, March 18, 2025
+
 in wine tasting. Don't forget to bring
 additional local currency/credit cards for
 optional purchases such as wine and
@@ -953,7 +965,7 @@ take a swim in one of the whirlpools.
 Alternatively, just relax as you float, taking in
 nature at its best.
 
-Mohaka River Rafting Float Trip
+## Mohaka River Rafting Float Trip
 
 Notes:
 This rafting float trip is on a Grade 2 river,
@@ -986,7 +998,8 @@ Back at the base, change back into your dry
 clothes; then, hop back on the coach and relax
 for the journey back to the ship in Napier.
 
-Napier City Drive & Aquarium
+## Napier City Drive & Aquarium
+
 Upon arrival at the rafting base, gear up with
 a splash jacket, splash pants, booties and a
 fleece top. Travel about five miles over the
@@ -1033,7 +1046,7 @@ of the city and Hawke’s Bay, including the
 Marewa District, noted for its many "deco"
 homes and superb gardens.
 
-Pinot and Pecorino
+## Pinot and Pecorino
 Your coach will drop you off at the Aquarium
 , where you can explore the display of aquatic
 life and unique New Zealand wildlife
@@ -1052,7 +1065,7 @@ experience featuring Hawke's Bay Pinot wines
 and pecorino cheese -- a match made in
 heaven -- or in the majestic Tuki Tuki Valley.
 
-Napier Highlights
+## Napier Highlights
 Departs: 1:30 PM, 3:30 PM
 Approximately 1 hour
 Adult $49.95; Child $29.95
@@ -1085,7 +1098,8 @@ Mata Peak and sample award-winning sheep
 cheeses that are supplied to some of New
 Page 14 of 114
 
-Napier, New Zealand - Tuesday, March 18, 2025
+Napier, New Zealand - Tuesday, March 18, 2025
+
 Zealand's finest restaurants. A cheese and
 wine pairing includes the famous manchego
 and pecorino cheeses, among others.
@@ -1100,11 +1114,13 @@ Bring bottled water.
 
 Page 15 of 114
 
-Wellington, New Zealand - Wednesday, March 19, 2025: New Zealand’s friendly capital city features
+## Wellington, New Zealand - Wednesday, March 19, 2025: 
+
+New Zealand’s friendly capital city features
 gaily painted old wooden houses and a red cable car that takes you up to the Wellington Botanic Gardens and a fine view of the harbor. A
 must-see is the engaging Te Papa Museum.
-Lord of the Rings Film Locations
-& Weta Workshop
+
+## Lord of the Rings Film Locations & Weta Workshop
 Departs: 10:30 AM (Waitlisted), 1:30 PM
 Approximately 3½ Hours
 Adult $179.95; Child $149.95
@@ -1113,11 +1129,13 @@ A brief, picturesque drive through the heart
 of Wellington takes you along the waterfront,
 past Te Papa Museum, and through Oriental
 and Evans Bays.
+
 You’re in Wellywood now -- the home of
 Weta Studios. Weta Studios’ Weta Workshop
 Experience offers a peek into the magic of
 Weta and the many films this media special
 effects company has worked on.
+
 Visitors gain an insight into the processes and
 the creative and innovative thinking that goes
 on within the walls of this facility, explained
@@ -1125,6 +1143,7 @@ by members of the talented crew from the
 workshop floor, using the props, models and
 weapons they have made for blockbuster
 movies.
+
 Learn about the process used for different
 disciplines, such as Armour & Costumes,
 Weapons & Props, Creatures & Make-up FX,
@@ -1178,8 +1197,7 @@ no film sets remain on location. Photography
 is not allowed inside the Weta Workshop
 facility. Tour order may vary.
 
-Shenandoah - A Unique Kiwi
-Experience
+## Shenandoah - A Unique Kiwi Experience
 
 Seal Coast Safari
 Departs: 11:00 AM
@@ -1213,6 +1231,7 @@ you on a magical tour of the property. His
 passion for storytelling, little-known facts and
 rich history brings to life the early days of this
 landmark setting.
+
 Originally a Maori pa (fortress) for the Ngati
 Toa tribe, the property fell into the hands of
 the Crown before the whalers and settlers
@@ -1224,6 +1243,7 @@ base. Learn about its role it played in the
 prevention of a Japanese invasion and how it
 is still visited today by surviving US Marines
 and their descendants.
+
 Behind the barn doors is a private museum
 not open to the public. It is filled with
 artifacts found on the property over the last
@@ -1241,14 +1261,15 @@ accompaniment.
 
 Page 16 of 114
 
-Wellington, New Zealand - Wednesday, March 19, 2025
+Wellington, New Zealand - Wednesday, March 19, 2025
+
 By the end of your day out, you will fully
 grasp the meaning of Pauatahanui, which is
 the place you never want to leave .
 Notes:
 Minimum age is 5 years. Wear sturdy nonskid walking shoes. Dress warmly in layers.
 
-Tastes of Wellington
+# Tastes of Wellington
 Departs: 10:30 AM (Waitlisted)
 Approximately 3¾ Hours
 Price $229.95
@@ -1263,8 +1284,7 @@ the way you'll try some of the flavours the city
 is most famous for including chocolate, coffee
 and baked goods.
 
-Te Papa & Zealandia Eco
-Experience
+## Te Papa & Zealandia Eco Experience
 Departs: 10:30 AM (Waitlisted)
 Approximately 4 Hours
 Adult $129.95; Child $89.95
@@ -1284,7 +1304,7 @@ of the best of this national museum facility
 before taking some free time to explore on
 your own.
 
-Te Papa Museum & Cable Car
+## Te Papa Museum & Cable Car
 Don't have too much breakfast this is a
 delicious introduction to the capital of New
 Zealand.
@@ -1356,7 +1376,7 @@ incline.
 Your tour concludes with a scenic drive back
 to the ship.
 
-The Storm Coast
+## The Storm Coast
 Departs: 10:30 AM (Waitlisted)
 Approximately 4 hours
 Adult $149.95; Child $129.95
@@ -1383,14 +1403,14 @@ and beef farmer and Lodge owner.
 Towards the end of the peninsula, enjoy
 Page 17 of 114
 
-Wellington, New Zealand - Wednesday, March 19, 2025
+Wellington, New Zealand - Wednesday, March 19, 2025
 expansive views (weather permitting) over
 Cook Strait to the South Island from
 Pencarrow Lodge.
 A delightful morning or afternoon tea is
 served by your hosts.
 
-Wellington City Drive
+## Wellington City Drive
 Departs: 10:45 AM (Waitlisted), 2:15 PM
 Approximately 3 Hours
 Price $59.95
@@ -1419,7 +1439,7 @@ for special events. Enjoy a brief stop here
 before returning to the ship by way of
 Wellington's central business district.
 
-Zealandia Eco Reserve & Otari
+## Zealandia Eco Reserve & Otari
 Wilton Bush
 Departs: 11:15 AM (Waitlisted)
 Approximately 4 Hours
@@ -1468,11 +1488,13 @@ a Garden of National Significance by the
 Royal New Zealand Institute of Horticulture,
 Page 18 of 114
 
-Picton, New Zealand - Thursday, March 20, 2025: Set in the upper reaches of Queen Charlotte Sound,
+## Picton, New Zealand - Thursday, March 20, 2025: 
+
+Set in the upper reaches of Queen Charlotte Sound,
 Picton is perfect in every way: climate, scenery, outdoor adventure. Gateway to the largest grape-growing and wine-producing region of
 New Zealand.
-Deluxe Marlborough Wine Tour
-with Lunch
+
+## Deluxe Marlborough Wine Tour with Lunch
 Departs: 9:30 AM
 Approximately 5½ Hours
 Price $289.95
@@ -1494,7 +1516,7 @@ Wine purchased on this tour is exempt from
 the on-board corkage fee (offer limited to one
 bottle of wine per person).
 
-Kaipupu Sanctuary
+## Kaipupu Sanctuary
 Departs: 9:30 AM (Waitlisted), 1:00 PM
 Approximately 3 Hours
 Adult $139.95; Child $129.95
@@ -1538,8 +1560,7 @@ walking shoes. Tour involves a shuttle
 transfer to/from Picton Town Centre.
 Minimum age is 10 years.
 
-Knights of the Sky: The Omaka
-Aviation Heritage Museum
+## Knights of the Sky: The Omaka Aviation Heritage Museum
 Departs: 9:15 AM (Waitlisted)
 Approximately 4 Hours
 Adult $149.95; Child $129.95
@@ -1578,8 +1599,7 @@ weather permitting. Bring a jacket and
 biodegradable sunscreen. Not advisable for
 guests using a wheelchair.
 
-Marlborough Farm, Garden &
-Sheep Round-Up
+## Marlborough Farm, Garden & Sheep Round-Up
 Departs: 8:30 AM (Waitlisted)
 Approximately 7 Hours
 Price $289.95
@@ -1632,7 +1652,7 @@ Not advisable for guests using a wheelchair.
 The drive time between Picton and The Store
 is approximately 1 hour 45 minutes.
 
-Marlborough Flyer Train Tour
+## Marlborough Flyer Train Tour
 Departs: 10:00 AM (Waitlisted)
 Approximately 4¾ Hours
 Price $169.95
@@ -1694,8 +1714,7 @@ Renwick for a panoramic drive past some of
 Marlborough's many vineyards before
 returning to the pier.
 
-Off the Beaten Track: Queen
-Charlotte Sound Kayaking
+## Off the Beaten Track: Queen Charlotte Sound Kayaking
 Departs: 8:45 AM (Waitlisted)
 Approximately 3½ Hours
 Price $239.95
@@ -1753,8 +1772,7 @@ wet. Clothing should be 'active wear' -- shorts
 are best; do not wear jeans. Bring a jacket.
 Itinerary is dependent on weather conditions.
 
-On Your Bike: Wine Country
-Cycling & Lunch
+## On Your Bike: Wine Country Cycling & Lunch
 
 At wineries en route, taste a full range of
 Marlborough's wine varieties including
@@ -1809,7 +1827,7 @@ years. Minimum age to drink alcohol is 18
 years with a companion aged 21 years or
 older.
 
-Paua Pearl Farm Tour
+## Paua Pearl Farm Tour
 Departs: 9:30 AM
 Approximately 4½ Hours
 Price $259.95
@@ -1854,7 +1872,7 @@ exclusive pearls in custom made jewellery, the
 only place in the world where you can buy
 these unique pearls.
 
-Picton Seaport Walk
+## Picton Seaport Walk
 Departs: 8:30 AM (Waitlisted)
 Approximately 2 Hours
 Adult $69.95; Child $49.95
@@ -1895,8 +1913,7 @@ mobility limitations. Minimum age is 10
 years. A donation to "A World without
 Whales" is included in the tour price.
 
-Scenic Cruising on Queen
-Charlotte Sounds
+## Scenic Cruising on Queen Charlotte Sounds
 Departs: 11:15 AM (Waitlisted)
 Approximately 2½ Hours
 Adult $89.95; Child $69.95
@@ -1936,8 +1953,7 @@ Departs: 9:00 AM
 Approximately 4 Hours
 Price $199.95
 
-Scenic Sounds Cruise & Mistletoe
-Bay Walk
+## Scenic Sounds Cruise & Mistletoe Bay Walk
 Departs: 9:30 AM
 Approximately 3½ Hours
 Price $149.95
@@ -1999,7 +2015,9 @@ to Picton.
 Your tour concludes back in Picton. Guests
 Page 22 of 114
 
-Lyttelton (Christchurch), New Zealand - Friday, March 21, 2025: Are you in England or New
+## Lyttelton (Christchurch), New Zealand - Friday, March 21, 2025: 
+
+Are you in England or New
 Zealand? It's hard to tell in this city crowned by a neo-Gothic stone cathedral and set along the grassy banks of the Avon River. Nearby: the
 fertile Canterbury Plains and rugged high-country sheep stations.
 Christchurch by Double-Decker
@@ -2041,7 +2059,7 @@ style -- for breathtaking views over
 Christchurch, the Canterbury Plains and (on
 a clear day) the Southern Alps.
 
-Gondola Express
+## Gondola Express
 Departs: 8:30 AM, 9:00 AM, 9:30 AM, 10:00
 AM, 10:30 AM
 Approximately 2 Hours
@@ -2069,11 +2087,9 @@ You can spend as much or as little time at the
 Gondola as you wish and catch the return
 transfer to the ship at your leisure.
 
-Hanmer Springs Resort Town &
-Thermal Springs
+## Hanmer Springs Resort Town & Thermal Springs
 
-High Country Explorer by Off
-Road Vehicle & Jet Boat
+High Country Explorer by Off Road Vehicle & Jet Boat
 
 Departs: 8:30 AM
 Approximately 8 Hours
@@ -2157,8 +2173,7 @@ Wear sturdy non-skid walking shoes. Bring a
 windbreaker or light jacket. Minimum age is 2
 years.
 
-Ice & Wings: A Behind-the-Scenes
-Experience
+## Ice & Wings: A Behind-the-Scenes Experience
 Departs: 9:45 AM
 Approximately 5 Hours
 Price $199.95
@@ -2203,8 +2218,7 @@ surfaces. Other interactive activities are at the
 guests' discretion. Not advisable for guests
 with mobility limitations.
 
-Journey to Middle Earth: Lord of
-the Rings
+## Journey to Middle Earth: Lord of the Rings
 Departs: 8:30 AM
 Approximately 8 Hours
 Adult $279.95; Child $199.95
@@ -2251,7 +2265,7 @@ layers with a wind- and waterproof outer
 layer. Please note this tour involves several
 hours of driving to reach the film locations.
 
-Lyttelton Discovery Cruise
+## Lyttelton Discovery Cruise
 Departs: 9:40 AM (Waitlisted)
 Approximately 2½ Hours
 Adult $99.95; Child $59.95
@@ -2478,9 +2492,9 @@ its iconic heritage buildings and hear about
 the exciting vision to rebuild and restore the
 inner city.
 
-Waimakariri River Jet Boating
+## Waimakariri River Jet Boating
 
-Waipara Wine Tasting & Lunch
+## Waipara Wine Tasting & Lunch
 
 Departs: 9:00 AM (Waitlisted), Noon
 Approximately 2½ Hours
@@ -2545,11 +2559,12 @@ through the Port Hills.
 
 Page 26 of 114
 
-Port Chalmers (Dunedin), New Zealand - Saturday, March 22, 2025: Dunedin's Scottish heritage
+## Port Chalmers (Dunedin), New Zealand - Saturday, March 22, 2025: 
+
+Dunedin's Scottish heritage
 is everywhere, evident in its statue of poet Robert Burns, in the work of its kilt makers and whisky distilleries and in its ornate Victorian train
 station. Aye, there's even a castle that emphasizes the kinship.
-Albatross Cruise & Natures
-Wonders
+## Albatross Cruise & Natures Wonders
 Departs: 8:45 AM, 10:15 AM
 Approximately 4½ Hours
 Price $309.95
@@ -2588,7 +2603,7 @@ countryside, involving some steep and bumpy
 off-road driving. Wildlife sightings are likely
 but are not guaranteed.
 
-Craft Dunedin
+## Craft Dunedin
 Departs: 9:30 AM (Waitlisted)
 Approximately 4 Hours
 Price $249.95
@@ -2617,7 +2632,7 @@ This is where the Tour will start. Minimum
 
 age is 18 years.
 
-Dunedin Private Touring - Full Day
+## Dunedin Private Touring - Full Day
 (Car)
 Departs: 8:30 AM (Waitlisted)
 Approximately 8 hours - Price is per vehicle, not
@@ -2656,7 +2671,7 @@ is extremely limited, so guests are encouraged
 to secure their private vehicle reservation as
 early as possible.
 
-Dunedin Private Touring - Full Day
+## Dunedin Private Touring - Full Day
 (Minivan)
 Departs: 8:30 AM
 Approximately 8 hours - Price is per vehicle, not
@@ -2697,7 +2712,7 @@ is extremely limited, so guests are encouraged
 to secure their private vehicle reservation as
 early as possible.
 
-Easy Dunedin
+## Easy Dunedin
 Departs: 10:00 AM, 2:30 PM
 Approximately 2½ Hours
 Adult $69.95; Child $49.95
@@ -2716,7 +2731,7 @@ Notes:
 This is a driving tour and there will be no
 inside visits during this excursion.
 
-Great Houses of Dunedin
+## Great Houses of Dunedin
 Departs: 10:00 AM (Waitlisted)
 Approximately 5 Hours
 Adult $149.95; Child $139.95
@@ -2776,7 +2791,7 @@ Castle. Larnach Castle is not wheelchair
 accessible except for the gardens and the first
 floor (ground level).
 
-Larnach Castle & City Drive
+## Larnach Castle & City Drive
 Departs: 9:45 AM (Waitlisted),
 Approximately 4 hours
 Adult $129.95; Child $79.95
@@ -2819,7 +2834,7 @@ Larnach Castle. Larnach Castle is not
 wheelchair accessible except for the gardens
 and the first floor (ground level).
 
-Nature's Wonders
+## Nature's Wonders
 Departs: 9:45 AM, 12:30 PM
 Approximately 4 hours
 Adult $189.95; Child $129.95
@@ -2863,8 +2878,7 @@ but are not guaranteed. Please note the coach
 ride to Nature’s Wonders from Port
 Chalmer’s is approximately 90 minutes.
 
-Panoramic Dunedin, Olveston
-House & Botanic Gardens
+## Panoramic Dunedin, Olveston House & Botanic Gardens
 Departs: 9:00 AM, 1:30 PM (Waitlisted)
 Approximately 3½ Hours
 Adult $79.95; Child $59.95
@@ -2926,7 +2940,7 @@ wheelchair have the option to view a DVD
 tour of those floors. Photography is not
 allowed inside Olveston House.
 
-The Taieri Gorge Train Tour
+## The Taieri Gorge Train Tour
 Departs: 9:10 AM
 Approximately 6¾ Hours
 Price $199.95
@@ -2977,7 +2991,7 @@ Station, you will have 75 minutes free time to
 explore before reboarding the train to return
 to your awaiting ship.
 
-Wildlife Discovery Cruise
+## Wildlife Discovery Cruise
 Departs: 9:15 AM (Waitlisted), 11:45 AM
 Approximately 2½ Hours
 Adult $139.95; Child $89.95
@@ -2990,7 +3004,7 @@ scenery and the informative on-board
 commentary explains the geology, history and
 Page 29 of 114
 
-Port Chalmers (Dunedin), New Zealand - Saturday, March 22, 2025
+## Port Chalmers (Dunedin), New Zealand - Saturday, March 22, 2025
 human history of the area.
 Your day includes a visit to the breeding areas
 of one of the world's largest seabirds -- the
