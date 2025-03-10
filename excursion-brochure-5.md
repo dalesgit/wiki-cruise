@@ -1,3 +1,5 @@
+[[Excursions overview.md]]
+
 ## Hilo, Hawaii, US - Friday, April 18, 2025: 
 
 On the lush side of the Big Island find world-class botanical gardens, macadamia-nut plantations and, of course, the molten lava flows of Kilauea, home of Pele, hotheaded goddess of fire.
