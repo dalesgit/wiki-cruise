@@ -149,7 +149,7 @@ Page 31 of 114
 terrain includes some slight inclines and dirt
 paths.
 
-## Bonorong Wildlife Sanctuary
+# Bonorong Wildlife Sanctuary
 Departs: 8:30 AM, 12:45 PM
 Approximately 3½ Hours
 Adult $89.95; Child $69.95

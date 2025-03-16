@@ -1,4 +1,5 @@
-Tauranga (Rotorua), New Zealand - Monday, March 17, 2025: 
+# Embarkation
+## Tauranga (Rotorua), New Zealand - Monday, March 17, 2025: 
 
 Site of fierce Maori wars, Tauranga today is a peaceful city in the heart of kiwifruit-growing country. Farther afield: Rotorua, with its spouting geysers and bubbling mud pools, the Waitomo Glow Worm Caves and nocturnal kiwi houses.
 
@@ -998,7 +999,7 @@ Back at the base, change back into your dry
 clothes; then, hop back on the coach and relax
 for the journey back to the ship in Napier.
 
-## Napier City Drive & Aquarium
+# Napier City Drive & Aquarium
 
 Upon arrival at the rafting base, gear up with
 a splash jacket, splash pants, booties and a
@@ -1120,7 +1121,7 @@ New Zealand’s friendly capital city features
 gaily painted old wooden houses and a red cable car that takes you up to the Wellington Botanic Gardens and a fine view of the harbor. A
 must-see is the engaging Te Papa Museum.
 
-## Lord of the Rings Film Locations & Weta Workshop
+# Lord of the Rings Film Locations & Weta Workshop
 Departs: 10:30 AM (Waitlisted), 1:30 PM
 Approximately 3½ Hours
 Adult $179.95; Child $149.95
@@ -2991,7 +2992,7 @@ Station, you will have 75 minutes free time to
 explore before reboarding the train to return
 to your awaiting ship.
 
-## Wildlife Discovery Cruise
+# Wildlife Discovery Cruise
 Departs: 9:15 AM (Waitlisted), 11:45 AM
 Approximately 2½ Hours
 Adult $139.95; Child $89.95
@@ -3027,4 +3028,4 @@ the vessel.
 
 Page 30 of 114
 
-
+[[excursion-brochure-2.md|A Walk through Historical Hobart]]
