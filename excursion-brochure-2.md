@@ -8,37 +8,15 @@ Departs: 9:30 AM, 1:00 PM
 Approximately 2 Hours
 Adult $59.95; Child $39.95
 
-This classic walking tour introduces you to
-the history of Hobart. Learn how and why the
-island was first settled and the struggle of the
-young colony to establish civil amenities
-alongside an infamous prison system.
-Special attention is paid to the earliest
-structures of the city, as well as its famous
-sandstone buildings, still in excellent
-condition today. The early convict builders
-were the craftsmen responsible for their
-enduring beauty. Stories of important
-characters are covered, from the troublesome
-military officers to those who worked their
-way up from the very bottom to positions of
-achievement. The contribution of the
-legendary Sir John & Lady Jane Franklin,
-1840s Governor of Tasmania, is
-acknowledged at his statue.
-Walk past St David's Cathedral, the old gaol
-(jail) and treasury, into the lovely park that
-was the first burial ground in Tasmania.
-Your walk ends in the famous Salamanca,
-built for the whaling industry, with a tribute
-to Abel Tasman.
-Your guide carries old maps and archival
-images of old scenes to enhance your
-experience.
-Notes:
-Minimum age is 6 years. Tour does not
+This classic walking tour introduces you to the history of Hobart. Learn how and why the island was first settled and the struggle of the young colony to establish civil amenities alongside an infamous prison system.  Special attention is paid to the earliest structures of the city, as well as its famous sandstone buildings, still in excellent condition today. The early convict builders were the craftsmen responsible for their enduring beauty. Stories of important characters are covered, from the troublesome military officers to those who worked their way up from the very bottom to positions of achievement. The contribution of the legendary Sir John & Lady Jane Franklin, 1840s Governor of Tasmania, is acknowledged at his statue.
 
-operate on holidays.
+Walk past St David's Cathedral, the old gaol (jail) and treasury, into the lovely park that was the first burial ground in Tasmania.  Your walk ends in the famous Salamanca, built for the whaling industry, with a tribute to Abel Tasman.
+
+Your guide carries old maps and archival images of old scenes to enhance your experience.
+
+Notes:
+
+Minimum age is 6 years. Tour does not operate on holidays.
 
 ## Bonorong Wildlife Park, Mt Field & Curringa Farm
 

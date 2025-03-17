@@ -1,4 +1,5 @@
 # Embarkation
+
 ## Tauranga (Rotorua), New Zealand - Monday, March 17, 2025: 
 
 Site of fierce Maori wars, Tauranga today is a peaceful city in the heart of kiwifruit-growing country. Farther afield: Rotorua, with its spouting geysers and bubbling mud pools, the Waitomo Glow Worm Caves and nocturnal kiwi houses.
@@ -999,53 +1000,21 @@ Back at the base, change back into your dry
 clothes; then, hop back on the coach and relax
 for the journey back to the ship in Napier.
 
+
 # Napier City Drive & Aquarium
 
-Upon arrival at the rafting base, gear up with
-a splash jacket, splash pants, booties and a
-fleece top. Travel about five miles over the
-Titiokura Saddle mountain pass to the far side
-of the range.
-Begin your nearly seven-mile river raft float
-trip through low canyons and native
-vegetation. Depending on the weather
-conditions and water level, you may be able to
-ride the occasional rolling rapids.
-If you're up for an exhilarating experience,
+Upon arrival at the rafting base, gear up with a splash jacket, splash pants, booties and a fleece top. Travel about five miles over the Titiokura Saddle mountain pass to the far side of the range.  Begin your nearly seven-mile river raft float trip through low canyons and native vegetation. Depending on the weather conditions and water level, you may be able to ride the occasional rolling rapids.  If you're up for an exhilarating experience,
 
 Departs: 1:45 PM (Waitlisted)
 Approximately 2½ Hours
 Adult $69.95; Child $49.95
 
-Board a coach and get acquainted with Napier
-on this hour-long city orientation tour. You'll
-learn how Napier came to be known as 'the
-Art Deco City' after being rebuilt in the early
-1930s due to a major earthquake. The new
-buildings reflected the style of the times -stripped Classical, Spanish Revival, Art Deco,
-and some even incorporating native Maori
-motifs.
+Board a coach and get acquainted with Napier on this hour-long city orientation tour. You'll learn how Napier came to be known as 'the Art Deco City' after being rebuilt in the early 1930s due to a major earthquake. The new buildings reflected the style of the times -stripped Classical, Spanish Revival, Art Deco, and some even incorporating native Maori motifs.
 
-Follow the Napier seashore along Marine
-Parade as your driver-gudie relates the city's
-history and stories, including tales of the
-devastating 1931 quake.
-Watch for the sunken gardens, the Aquarium,
-the Spirit of Napier, and Art Deco buildings.
-Continue through Napier's suburbs for views
-of the city and Hawke's Bay. Travel through
-the Marewa District, noted for its many 'deco'
-homes and superb gardens.
+Follow the Napier seashore along Marine Parade as your driver-gudie relates the city's history and stories, including tales of the devastating 1931 quake.  Watch for the sunken gardens, the Aquarium, the Spirit of Napier, and Art Deco buildings.  Continue through Napier's suburbs for views of the city and Hawke's Bay. Travel through the Marewa District, noted for its many 'deco' homes and superb gardens.
 
-and stories, including tales of the devastating
-1931 quake.
-Pass the sunken gardens, the National
-Aquarium, the Spirit of Napier, and art deco
-buildings.
-Continue through Napier’s suburbs for views
-of the city and Hawke’s Bay, including the
-Marewa District, noted for its many "deco"
-homes and superb gardens.
+and stories, including tales of the devastating 1931 quake.  Pass the sunken gardens, the National Aquarium, the Spirit of Napier, and art deco buildings.  Continue through Napier’s suburbs for views of the city and Hawke’s Bay, including the Marewa District, noted for its many "deco"
+homes and superb gardens
 
 ## Pinot and Pecorino
 Your coach will drop you off at the Aquarium
@@ -1126,76 +1095,24 @@ Departs: 10:30 AM (Waitlisted), 1:30 PM
 Approximately 3½ Hours
 Adult $179.95; Child $149.95
 
-A brief, picturesque drive through the heart
-of Wellington takes you along the waterfront,
-past Te Papa Museum, and through Oriental
-and Evans Bays.
+A brief, picturesque drive through the heart of Wellington takes you along the waterfront, past Te Papa Museum, and through Oriental and Evans Bays.
 
-You’re in Wellywood now -- the home of
-Weta Studios. Weta Studios’ Weta Workshop
-Experience offers a peek into the magic of
-Weta and the many films this media special
-effects company has worked on.
+You’re in Wellywood now -- the home of Weta Studios. Weta Studios’ Weta Workshop Experience offers a peek into the magic of Weta and the many films this media special effects company has worked on.
 
-Visitors gain an insight into the processes and
-the creative and innovative thinking that goes
-on within the walls of this facility, explained
-by members of the talented crew from the
-workshop floor, using the props, models and
-weapons they have made for blockbuster
-movies.
+Visitors gain an insight into the processes and the creative and innovative thinking that goes on within the walls of this facility, explained by members of the talented crew from the workshop floor, using the props, models and weapons they have made for blockbuster movies.
 
-Learn about the process used for different
-disciplines, such as Armour & Costumes,
-Weapons & Props, Creatures & Make-up FX,
-Miniatures & Models, Conceptual Art and
-Merchandise. The Exhibition Space will also
-reveal the history of Weta Workshop and
-what has kept them busy for the past 20 years.
+Learn about the process used for different disciplines, such as Armour & Costumes, Weapons & Props, Creatures & Make-up FX, Miniatures & Models, Conceptual Art and Merchandise. The Exhibition Space will also reveal the history of Weta Workshop and what has kept them busy for the past 20 years.
 
-Visit the locations featured in the famous film
+Visit the locations featured in the famous film trilogy and learn how it was created. Be immersed in a picturesque forest where the Hobbits’ journey began in the Lord of the Rings with fascinating insights into how these films were brought to the screen. See the shortcut to mushrooms and the iconic "Get off the Road!" scene, as well as where the Hobbits fled from the Black Rider towards the Buckleberry Ferry.
 
-trilogy and learn how it was created. Be
-immersed in a picturesque forest where the
-Hobbits’ journey began in the Lord of the
-Rings with fascinating insights into how these
-films were brought to the screen. See the
-shortcut to mushrooms and the iconic "Get
-off the Road!" scene, as well as where the
-Hobbits fled from the Black Rider towards the
-Buckleberry Ferry.
+landmarks on your way to a private farm with sheep, cattle, and goats. An exhilarating climb up the road offers stunning views of Cook Strait, the South Island, and the Kaikoura Ranges. Cross the terrain of one of New Zealand's oldest and largest farms and take note of the seismic fault lines in this young country that is still settling into its Ring of Fire location.
 
-landmarks on your way to a private farm with
-sheep, cattle, and goats. An exhilarating climb
-up the road offers stunning views of Cook
-Strait, the South Island, and the Kaikoura
-Ranges. Cross the terrain of one of New
-Zealand's oldest and largest farms and take
-note of the seismic fault lines in this young
-country that is still settling into its Ring of
-Fire location.
+Conclude the tour with a stop at the fantastic Mt Victoria Lookout, a 360-degree panorama that shows Wellington in all its splendour, where your guide will share stories about the history of the city.
 
-Conclude the tour with a stop at the fantastic
-Mt Victoria Lookout, a 360-degree panorama
-that shows Wellington in all its splendour,
-where your guide will share stories about the
-history of the city.
-
-At sea level, you'll traverse a rocky track to
-meet some much-loved locals -- New Zealand
-fur seals. Observe these amazing animals as
-they sunbathe, play, and swim. Learn about
-their history, ecology, and conservation from
-your friendly, knowledgeable guide as you
-enjoy a refreshing morning or afternoon
-snack. This is a must-do for those who love
-nature, wildlife, and getting off the beaten
-track.
+At sea level, you'll traverse a rocky track to meet some much-loved locals -- New Zealand fur seals. Observe these amazing animals as they sunbathe, play, and swim. Learn about their history, ecology, and conservation from your friendly, knowledgeable guide as you enjoy a refreshing morning or afternoon snack. This is a must-do for those who love nature, wildlife, and getting off the beaten track.
 
 Notes:
-Due to legal and conservation requirements,
-no film sets remain on location. Photography
-is not allowed inside the Weta Workshop
+Due to legal and conservation requirements, no film sets remain on location. Photography is not allowed inside the Weta Workshop
 facility. Tour order may vary.
 
 ## Shenandoah - A Unique Kiwi Experience
@@ -1271,19 +1188,14 @@ Notes:
 Minimum age is 5 years. Wear sturdy nonskid walking shoes. Dress warmly in layers.
 
 # Tastes of Wellington
+
 Departs: 10:30 AM (Waitlisted)
 Approximately 3¾ Hours
 Price $229.95
 
-A gentle meander around the capital city
-known for its great cuisine and vibrant
-atmosphere.
-The food walk is hosted by a passionate local
-guide who shares the story of the foundation
-of the capital through to present day. Along
-the way you'll try some of the flavours the city
-is most famous for including chocolate, coffee
-and baked goods.
+A gentle meander around the capital city known for its great cuisine and vibrant atmosphere.
+
+The food walk is hosted by a passionate local guide who shares the story of the foundation of the capital through to present day. Along the way you'll try some of the flavours the city is most famous for including chocolate, coffee and baked goods.
 
 ## Te Papa & Zealandia Eco Experience
 Departs: 10:30 AM (Waitlisted)
@@ -2997,35 +2909,14 @@ Departs: 9:15 AM (Waitlisted), 11:45 AM
 Approximately 2½ Hours
 Adult $139.95; Child $89.95
 
-Cruise Otago Harbour out to the landmark of
-Taiaroa Head. The purpose of your outing is
-to get acquainted with Otago and its wildlife.
-Otago Harbour offers viewing of stunning
-scenery and the informative on-board
-commentary explains the geology, history and
-Page 29 of 114
+Cruise Otago Harbour out to the landmark of Taiaroa Head. The purpose of your outing is to get acquainted with Otago and its wildlife.  Otago Harbour offers viewing of stunning scenery and the informative on-board commentary explains the geology, history and Page 29 of 114 human history of the area.  Your day includes a visit to the breeding areas of one of the world's largest seabirds -- the northern royal albatross. Endemic to New Zealand, this bird is now an endangered species. At Taiaroa Head, the boat will bring you up close to the only mainland colony of this amazing bird, whose impressive wingspan is almost 10 feet. You'll also see a breeding colony of New Zealand fur seals and view up to twenty other species of marine
+birds.
+
+Notes:
+
+Dress warmly in layers with a wind- and waterproof outer layer. Wildlife sightings are likely but are not guaranteed. There is a short transfer from the ship to the pier. Participants must negotiate a steep ramp to (dis)embark the vessel.
 
 ## Port Chalmers (Dunedin), New Zealand - Saturday, March 22, 2025
-human history of the area.
-Your day includes a visit to the breeding areas
-of one of the world's largest seabirds -- the
-northern royal albatross. Endemic to New
-Zealand, this bird is now an endangered
-species. At Taiaroa Head, the boat will bring
-you up close to the only mainland colony of
-this amazing bird, whose impressive
-wingspan is almost 10 feet. You'll also see a
-breeding colony of New Zealand fur seals and
-view up to twenty other species of marine
-birds.
-Notes:
-Dress warmly in layers with a wind- and
-waterproof outer layer. Wildlife sightings are
-likely but are not guaranteed. There is a short
-transfer from the ship to the pier. Participants
-must negotiate a steep ramp to (dis)embark
-the vessel.
-
 Page 30 of 114
 
 [[excursion-brochure-2.md|A Walk through Historical Hobart]]
