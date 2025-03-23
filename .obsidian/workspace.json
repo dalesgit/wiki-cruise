@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-03-17.md",
+                "file": "clippings/‘This is not comedy! Pay attention’ from Cabaret to Trump rallies, why does audience laughter feel so sinister  Donald Trump  The Guardian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-17"
+              "title": "‘This is not comedy! Pay attention’ from Cabaret to Trump rallies, why does audience laughter feel so sinister  Donald Trump  The Guardian"
             }
           }
         ]
@@ -165,8 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97954c298bc6f349",
+  "active": "c87d6ef994010cab",
   "lastOpenFiles": [
+    "clippings/legal",
+    "journal/2025-03-24.md",
+    "clippings/news",
+    "journal/2025-03-17.md",
     "journal/2025-03-08.md",
     "2025-03-08.md"
   ]
