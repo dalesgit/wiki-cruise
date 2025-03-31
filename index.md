@@ -49,3 +49,7 @@ cp. the way Lin-Manuel Miranda rehabilitated Alexander Hamilton.
 ## Prayer
 
 ### [Lent 4](Lent 4.md)
+
+## Technology
+
+- [tmux info](tmux info.md)
