@@ -53,3 +53,5 @@ cp. the way Lin-Manuel Miranda rehabilitated Alexander Hamilton.
 ## Technology
 
 - [tmux info](tmux info.md)
+- tmux tabs https://help.sourcelair.com/terminal/working-with-multiple-tabs/
+
