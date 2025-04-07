@@ -55,7 +55,7 @@ In the 1930s, members of Technocracy Inc [sought](https://www.researchgate.net/p
 Technocrats also believed that mechanisation and automation could eliminate much of the need for human labour, reducing work hours while maintaining productivity. Goods and services would be distributed based on scientific calculations of need and sustainability.
 
 > Accelerating Starship development to build the Martian Technocracy
-> 
+>
 > — Elon Musk (@elonmusk) [June 23, 2019](https://twitter.com/elonmusk/status/1142890265369202688?ref_src=twsrc%5Etfw)
 
 While the movement saw rapid growth in the early 1930s, it quickly [lost momentum](https://bostonraremaps.com/inventory/technocracy-inc-technate-of-america-1940/?srsltid=AfmBOooMZBu-GPK2bhFsMV2r6c_Pg4PZOrpQwbAMSNPcw1FOvLKR4din) by the mid-to-late 1930s.
@@ -153,7 +153,7 @@ In the 1930s, members of Technocracy Inc [sought](https://www.researchgate.net/p
 Technocrats also believed that mechanisation and automation could eliminate much of the need for human labour, reducing work hours while maintaining productivity. Goods and services would be distributed based on scientific calculations of need and sustainability.
 
 > Accelerating Starship development to build the Martian Technocracy
-> 
+>
 > — Elon Musk (@elonmusk) [June 23, 2019](https://twitter.com/elonmusk/status/1142890265369202688?ref_src=twsrc%5Etfw)
 
 While the movement saw rapid growth in the early 1930s, it quickly [lost momentum](https://bostonraremaps.com/inventory/technocracy-inc-technate-of-america-1940/?srsltid=AfmBOooMZBu-GPK2bhFsMV2r6c_Pg4PZOrpQwbAMSNPcw1FOvLKR4din) by the mid-to-late 1930s.
