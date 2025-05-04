@@ -1,0 +1,28 @@
+Daily Plan - Friday, March 28, 2025
+#journal #grateful
+Things to do:
+Get MP off the ship
+
+
+Reflection
+I’m grateful for:
+MP feeling better
+As usual my spirits are lifted by listening to Rachel and Taylor #names on piano. 
+What I did well today:
+Climbed the stairs
+What I’ve learned today:
+South Africa conscription practice under apartheid
+How uncountable I am from eating too much
+⁠
+
+Piano
+Rehab" is a song written and recorded by English singer-songwriter Amy Winehouse, from her second and final studio albumBack to Black (2006). Produced by Mark Ronson, the lyrics are autobiographical and address Winehouse's refusal to enter a rehabilitation clinic for 
+
+Rehab (Amy Winehouse song)
+
+"Rehab" is a soul and R&B song. In the lyrics Winehouse mentions "Ray" and "Mr. Hathaway", in reference to Ray Charles and Donny Hathaway. Critical 
+
+Overview
+Donny Edward Hathaway was an American soul singer, keyboardist, songwriter, backing vocalist, and arranger who Rolling Stone described as a "soul legend". His most popular songs include "The Ghetto", "This Christmas", "Someday We'll All Be Free", and "Little Ghetto Boy". Wikipedia
+
+

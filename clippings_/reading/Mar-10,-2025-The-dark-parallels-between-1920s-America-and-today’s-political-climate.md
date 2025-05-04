@@ -1,0 +1,63 @@
+---
+created: Mar 10, 2025, 8:51 AM
+title: The dark parallels between 1920s America and today’s political climate
+tags: Associated Press,​
+source: https://theconversation.com/the-dark-parallels-between-1920s-america-and-todays-political-climate-249986
+description: The early 1920s in the US offers historical lessons on how current pessimism about the state of the country can manifest in dangerous, discriminatory ways.
+author: Alex Green
+published: Published: March 10, 2025 8:49am EDT
+---
+
+As promised, the second Trump administration has quickly rolled out a slew of policies and executive orders that the president says are all aimed at “Making America Great Again.” This takes on different forms, including Elon Musk’s Department of Government Efficiency quickly  [laying off thousands of workers](https://www.npr.org/2025/03/06/nx-s1-5318072/how-much-money-has-doge-saved-budget-deficit-congress)  at various federal agencies, and President Donald Trump pausing  [all funding for Ukraine](https://www.cnn.com/2025/03/03/politics/trump-administration-ukraine-aid/index.html) . 
+Trump says that, among others, there are three groups that are making America not-great:  [immigrants](https://www.c-span.org/clip/campaign-2024/trump-on-illegal-immigrants-theyre-taking-your-jobs/5133406) ,  [people with disabilities](https://www.usatoday.com/story/money/2025/02/05/disabled-federal-employees-dei-trump/77976332007/) , and people who are committed to  [diversity, equity and inclusion](https://www.usatoday.com/story/money/2025/03/04/trump-dei-backlash-explained/81170427007/)  policies. 
+These administration efforts began at a time when many Americans expressed an overall rising sense of dissatisfaction with the  [state of the country and politics](https://www.pewresearch.org/short-reads/2025/02/10/on-issue-after-issue-americans-say-things-are-going-better-locally-than-nationally/) . Just 19% of Americans said in December 2024 that they think the country is  [heading in the right direction](https://www.axios.com/2024/12/26/americans-direction-country-poll-trump) . 
+This perspective is striking not only because it is so dark, but because it strongly resembles how Americans felt during a pivotal decade 100 years ago, when people’s dissatisfaction with the state of the country led to a series of discriminatory, hateful policies by the federal government. 
+It’s a period of American history that I think offers something of a mirror of the current political situation in the U.S.
+![People sit in a large room with two American flags hanging in a black and white photo.](https://images.theconversation.com/files/653661/original/file-20250306-56-51noy2.jpg) 
+
+
+## The Roaring ‘20s?
+
+In the 1920s, the  [economy was good](https://www.history.com/topics/1920s/roaring-twenties-history) , the U.S.  [had won World War I](https://www.britannica.com/event/World-War-I) , and a  [terrible pandemic ended](https://www.smithsonianmag.com/history/are-we-headed-roaring-2020s-historians-say-its-complicated-180977638/) . 
+But many Americans did not see it that way. 
+They entered the 1920s with a growing sense of paranoia and a feeling that they had been robbed of something. Winning World War I had come at a terrible cost. More than  [116,000 American soldiers died](https://dcas.dmdc.osd.mil/dcas/app/summaryData/casualties/principalWars)  and twice that number came home wounded. 
+As the war came to a close, the U.S. – and the world – was in the throes of the flu pandemic that ultimately claimed  [tens of millions of lives](https://www.archives.gov/exhibits/influenza-epidemic/) ,  [including about 675,000](https://www.paho.org/en/who-we-are/history-paho/purple-death-great-flu-1918)  in the U.S.
+Other Americans were concerned about the possible rise of communism in the U.S., as well as the  [arrival of many immigrants](https://www.history.com/topics/1920s/roaring-twenties-history) . This led extremists to introduce and implement hate-based policies at the federal and state level that targeted nonwhite immigrants and disabled people. 
+Among the most significant results of that political moment was the  [1924 Johnson-Reed Act](https://history.state.gov/milestones/1921-1936/immigration-act) , a restrictive immigration policy that, among other changes, prohibited immigration from Asia. 
+Another pivotal movement was the Supreme Court’s 1927  [Buck v. Bell](https://www.oyez.org/cases/1900-1940/274us200)  decision, which affirmed that the state of Virginia had the right to sterilize intellectually and developmentally disabled people. 
+
+
+## Discrimination against marginalized groups
+
+The Johnson-Reed Act prompted a major shift in American immigration policy, based on the fear of something that former President Theodore Roosevelt and others called “ [race suicide](https://www.si.edu/object/guarded-gate-bigotry-eugenics-and-law-kept-two-generations-jews-italians-and-other-european:siris_sil_1107845) .” 
+The law introduced rigid restrictions keeping people out of the country who were not from Northern and Western Europe. The immigration quotas that it established would continue to be enforced into the 1960s.  
+The  [U.S. politicians who lobbied for this law](https://www.tenement.org/blog/the-lasting-legacy-of-the-johnson-reed-act/)  were successful because they supported their effort by presenting evidence that showed purportedly scientific proof that almost all people in the world were biologically inferior to a group they called the Nordic Race – meaning people from Northern Europe – and their American descendants, who formed a group they called the “American Race.” 
+By restricting immigration from all other groups, these legislators believed they were counterbalancing a crushing period where  [war and pandemic had killed off](https://www.laphamsquarterly.org/roundtable/enemies-disabilities)  what they saw as the country’s best people. 
+Different groups preyed on Americans’ grief about the war and pandemic and directed it against minority groups. 
+![A large group of men wearing white gowns and white pointed hats walk in uniform, with a large dome building behind them in a black-and-white photo.](https://images.theconversation.com/files/651108/original/file-20250224-32-o4gklb.jpg) 
+From Maine to California, a revived Ku Klux Klan  [attracted millions of followers](https://www.si.edu/object/siris_sil_1089493)  with its belief that white people were superior to all others, and that  [Black people should remain enslaved](https://www.bbc.co.uk/bitesize/guides/z9b4srd/revision/4) . At the same time, a group of scientists, doctors and psychologists found enormous success in persuading the public that there were scientific reasons why hatred and discrimination needed to be incorporated into American government. 
+Their proof was something  [called eugenics](https://www.britannica.com/science/eugenics-genetics) , a pseudoscience which argued that humans had to use advanced technology and medicine to get people with good traits to reproduce while stopping those with bad traits from having the opportunity to do so. 
+ [Harry Laughlin](https://library.missouri.edu/specialcollections/exhibits/show/controlling-heredity/america/laughlin) , a eugenicist based at a research laboratory in Cold Spring Harbor, New York, was one of this movement’s most vocal representatives. 
+ [Laughlin worked for several different](https://pmc.ncbi.nlm.nih.gov/articles/PMC2757926/)  eugenics research organizations, and this helped him become successful at creating propaganda supporting eugenics that influenced public policy. He then gained a spot as an expert eugenics adviser to Congress in the early 1920s. With his position, Laughlin then provided the pseudoscientific data that gave the supporters of Johnson-Reed the claims they needed to justify passing the measure.
+![Two women sit next to each other and look at the camera in a black-and-white photo.](https://images.theconversation.com/files/653659/original/file-20250306-62-5z5ku2.jpg) 
+
+
+## A push for sterilization
+
+In Laughlin’s influential 1922 book “ [Eugenic Sterilization in the United States](https://archive.org/details/eugenicalsterili00laug) ,” he detailed a road map for passing a law that would allow governments to sterilize disabled people. 
+After so much death during World War I and the influenza pandemic, Laughlin found fertile ground for making a case that the U.S. needed to stop people who might be  [considered “feeble-minded”](https://www.cambridge.org/core/journals/journal-of-mental-science/article/eugenical-sterilization-of-the-feebleminded-proc-amer-assoc-for-the-study-of-the-feebleminded-1926-laughlin-h-h/C711584F9211069A60F8D13FC218CB46)  from passing down inferior traits. 
+In the mid-1920s, Laughlin and his allies pressed a court case against a teenage woman whom the state of Virginia had deemed an imbecile and incarcerated at a massive Virginia institution for the feeble-minded.  [This woman, Carrie Buck, was incarcerated](https://encyclopediavirginia.org/entries/buck-carrie-1906-1983/)  after she gave birth to a child in 1924 who was conceived as a result of rape. If Buck, who was 18 years old at the time, had any hope of being released, the officials who ran the institution demanded she be sterilized first.
+All across the country, states had begun legalizing forced sterilization. Now, this case of  [Buck v. Bell](https://www.oyez.org/cases/1900-1940/274us200)  made its way to the U.S. Supreme Court. In 1927, Justice Oliver Wendell Holmes Jr. issued the court’s ruling, which had only one dissent. In it, he wrote that “three generations of imbeciles is enough” and extended the scope of a previous ruling that allowed the government to compel people to get vaccinated to include forced sterilization of disabled people. 
+Buck was forcibly  [sterilized in October 1927](https://origins.osu.edu/read/sterilization-carrie-buck) , shortly after the court’s ruling. 
+While it is unquestionable that sterilization and other discriminatory policies  [found common cause](https://theconversation.com/how-trumps-racist-talk-of-immigrant-bad-genes-echoes-some-of-the-last-centurys-darkest-ideas-about-eugenics-241548)  with Adolf Hitler’s rising Nazi movement – which used the eugenic ideas of sterilization and mass extermination – they persisted, largely unchallenged, here in the U.S. 
+Some people,  [including myself](https://www.hks.harvard.edu/faculty/alex-green) , argue that the spirit of these discriminatory policies still exists in the U.S. today. 
+
+
+## A familiar story
+
+Following stalemated wars in Iraq and Afghanistan in the 2000s and the COVID-19 pandemic in 2020, the  [American economy has been growing](https://www.cbsnews.com/news/us-economy-gdp-healthy-last-quarter-2024/) . 
+But sensing a grave decline, some white Americans have turned their sights on people with disabilities, immigrants, transgender and nonbinary people, and people of color as the source of their problems.
+Trump regularly encourages this kind of thinking. In January 2025, he  [blamed an air collision](https://www.nytimes.com/2025/01/30/us/politics/trump-plane-crash-dei-faa-diversity.html)  that occurred over the Potomac River and  [killed 67 people](https://www.nbcnews.com/news/us-news/67-victims-dc-midair-collision-recovered-potomac-river-only-1-left-uni-rcna190501)  on disabled Federal Aviation Administration employees, implying that they did not possess the intelligence to do their jobs.
+Trump falsely said the Jan. 1, 2025, New Orleans terror attack  [was caused by illegal immigration](https://www.latimes.com/politics/story/2025-01-03/trump-blames-immigrants-new-orleans-attack-us-citizen) , even though a Texas-born man drove a car into a crowd of people,  [killing 14](https://www.fbi.gov/news/press-releases/bourbon-street-attack-investigation-updates) . 
+At a policy level, Trump’s administration has made significant changes to the immigration system, including taking  [steps to remove legal protections for 350,000 Venezuelan immigrants](https://abcnews.go.com/US/dhs-expected-end-deportation-protection-350000-venezuelans-tps/story?id=118414795)  in the U.S. And he has launched an unprecedented  [challenge to birthright citizenship](https://www.cbsnews.com/news/trump-birthright-citizenship-order-judge-blocks/) . 
+There are limits to what history can say about the current situation. But these similarities with the early 1920s suggest that, contrary to many claims about the unprecedented nature of the current times, the country has been here before.

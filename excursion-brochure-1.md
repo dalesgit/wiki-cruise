@@ -1,6 +1,6 @@
 # Embarkation
 
-## Tauranga (Rotorua), New Zealand - Monday, March 17, 2025: 
+## Tauranga (Rotorua), New Zealand - Monday, March 17, 2025:
 
 Site of fierce Maori wars, Tauranga today is a peaceful city in the heart of kiwifruit-growing country. Farther afield: Rotorua, with its spouting geysers and bubbling mud pools, the Waitomo Glow Worm Caves and nocturnal kiwi houses.
 
@@ -10,80 +10,29 @@ Departs: 10:00 AM (Waitlisted)
 Approximately 4½ Hours
 Adult $139.95; Child $129.95
 
-This tour explores the incredible abundance
-and productivity of the land in the aptlynamed Bay of Plenty.
-You will visit a Maori marae (meeting place)
-to be welcomed and hosted by a Maori family.
-They are descendants of the migrants who
-arrived on the first oceangoing canoes from
-central Polynesia, more than 650 years ago.
-Hear their stories and enjoy their songs and
-dances as they trace their family history
-through the generations.
+This tour explores the incredible abundance and productivity of the land in the aptlynamed Bay of Plenty. You will visit a Maori marae (meeting place) to be welcomed and hosted by a Maori family. They are descendants of the migrants who arrived on the first oceangoing canoes from central Polynesia, more than 650 years ago. Hear their stories and enjoy their songs and dances as they trace their family history through the generations.
 
-Tour past kiwifruit orchards and walk under
-the green and gold kiwifruit vines with your
-guide and marvel at the extraordinary volume
-and quality of fruit produced here. Almost all
-of New Zealand's immense and world-famous
-kiwifruit crop is grown on this small pocket of
-land.
+Tour past kiwifruit orchards and walk under the green and gold kiwifruit vines with your guide and marvel at the extraordinary volume and quality of fruit produced here. Almost all of New Zealand's immense and world-famous kiwifruit crop is grown on this small pocket of land.
 
-A freshly-prepared morning snack will be
-served at a local village community hall,
-where you'll have an opportunity to shop for
-kiwifruit-inspired gifts and souvenirs at the
-boutique marketplace here.
+A freshly-prepared morning snack will be served at a local village community hall, where you'll have an opportunity to shop for kiwifruit-inspired gifts and souvenirs at the boutique marketplace here.
 
-Another special treat is an exclusive visit to
-the stunning coastal headland at Maketu. This
-is the location of an earlier Maori fortification
+Another special treat is an exclusive visit to the stunning coastal headland at Maketu. This is the location of an earlier Maori fortification (pa) with its gorgeous, 360-degree panoramic views and a strategic location that has been so prized and so ardently contested by neighboring Maori tribes.
 
-(pa) with its gorgeous, 360-degree panoramic
-views and a strategic location that has been so
-prized and so ardently contested by
-neighboring Maori tribes.
-
-Enjoy a classic kiwi packed lunch at the lake's
-edge.
+Enjoy a classic kiwi packed lunch at the lake's edge.
 
 ## Glow Worm Kayaking & Thermal Hot Pool
 
-Wear your swimsuit under your clothing;
-bring a towel, sunscreen and a hat. Bring a
-change of clothing, as you may get wet. Wear
-shorts (jeans are not allowed). No previous
-kayaking experience is required, but a very
-good level of fitness and mobility are needed.
-You will be paddling for two hours,
-sometimes in breezy conditions. 45 minutes is
-spent at the hot pools for optional swim.
-Minimum age is 8 years.
+Wear your swimsuit under your clothing; bring a towel, sunscreen and a hat. Bring a change of clothing, as you may get wet. Wear shorts (jeans are not allowed). No previous kayaking experience is required, but a very good level of fitness and mobility are needed. You will be paddling for two hours, sometimes in breezy conditions. 45 minutes is spent at the hot pools for optional swim. Minimum age is 8 years.
 
 Departs: 8:30 AM
 Approximately 6½ hours
 Adult $259.95; Child $189.95
 
-From the ship, a 75 minute transfer south of
-Tauranga brings you to one of the nine
-beautiful lakes in the Rotorua District.
-Listen to a safety briefing introducing you to
-your twin kayak before commencing your
-kayaking excursion.
-Paddle your way to explore the lake's
-coastline, where the pohutukawa tree (New
-Zealand's native Christmas tree) and other
-native species dominate the vegetation. your
-way to explore the lake's coastline, where the
-pohutukawa tree (New Zealand's native
-Christmas tree) and other native species
-dominate the vegetation.
-You will see classic kiwi 'baches' -- holiday
-homes scattered around the lake.
-A highlight is exploring the small glow worm
-cave (limited to four kayaks at one time), and
-a dip in a hot spring will finish your day in
-relaxing style.
+From the ship, a 75 minute transfer south of Tauranga brings you to one of the nine beautiful lakes in the Rotorua District. Listen to a safety briefing introducing you to your twin kayak before commencing your kayaking excursion.
+
+Paddle your way to explore the lake's coastline, where the pohutukawa tree (New Zealand's native Christmas tree) and other native species dominate the vegetation. your way to explore the lake's coastline, where the pohutukawa tree (New Zealand's native Christmas tree) and other native species dominate the vegetation. You will see classic kiwi 'baches' -- holiday homes scattered around the lake.
+
+A highlight is exploring the small glow worm cave (limited to four kayaks at one time), and a dip in a hot spring will finish your day in relaxing style.
 
 Notes:
 
@@ -670,7 +619,7 @@ award-winning Gold Discovery Center. In
 
 Page 11 of 114
 
-Napier, New Zealand - Tuesday, March 18, 2025: 
+Napier, New Zealand - Tuesday, March 18, 2025:
 
 A city of vision, rebuilt in the striking, clean style of art
 deco after a devastating earthquake in 1931 and reinvented as a center for gourmet food and wines.
@@ -696,7 +645,7 @@ This introduction to Napier pairs up the city's
 Art Deco history and a gin distillery and
 tasting experience.
 
-Board a motor coach for an enjoyable, onehour panoramic drive past some of Napier's
+Board a motqor coach for an enjoyable, onehour panoramic drive past some of Napier's
 most famous Art Deco architecture.
 
 Take a panoramic drive through the central
@@ -1084,7 +1033,7 @@ Bring bottled water.
 
 Page 15 of 114
 
-## Wellington, New Zealand - Wednesday, March 19, 2025: 
+## Wellington, New Zealand - Wednesday, March 19, 2025:
 
 New Zealand’s friendly capital city features
 gaily painted old wooden houses and a red cable car that takes you up to the Wellington Botanic Gardens and a fine view of the harbor. A
@@ -1401,7 +1350,7 @@ a Garden of National Significance by the
 Royal New Zealand Institute of Horticulture,
 Page 18 of 114
 
-## Picton, New Zealand - Thursday, March 20, 2025: 
+## Picton, New Zealand - Thursday, March 20, 2025:
 
 Set in the upper reaches of Queen Charlotte Sound,
 Picton is perfect in every way: climate, scenery, outdoor adventure. Gateway to the largest grape-growing and wine-producing region of
@@ -1928,7 +1877,7 @@ to Picton.
 Your tour concludes back in Picton. Guests
 Page 22 of 114
 
-## Lyttelton (Christchurch), New Zealand - Friday, March 21, 2025: 
+## Lyttelton (Christchurch), New Zealand - Friday, March 21, 2025:
 
 Are you in England or New
 Zealand? It's hard to tell in this city crowned by a neo-Gothic stone cathedral and set along the grassy banks of the Avon River. Nearby: the
@@ -2472,7 +2421,7 @@ through the Port Hills.
 
 Page 26 of 114
 
-## Port Chalmers (Dunedin), New Zealand - Saturday, March 22, 2025: 
+## Port Chalmers (Dunedin), New Zealand - Saturday, March 22, 2025:
 
 Dunedin's Scottish heritage
 is everywhere, evident in its statue of poet Robert Burns, in the work of its kilt makers and whisky distilleries and in its ornate Victorian train

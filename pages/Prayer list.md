@@ -11,8 +11,9 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 
 ### Current
 
-destruction / recovery in LA
-The young woman at El Texana undocumented.
+~~destruction / recovery in LA~~
+Julie: brain lymphoma
+~~The young woman at El Texana undocumented.~~
 Pam (Sarah’s friend with neoblastoma) Husband with Parkinson’s
 [Karen](file:///var/mobile/Containers/Data/Application/36BE532E-156A-4629-83A0-F8D09E9E0C68/Documents/NoteBodyViewer.html?r=32741303#)’s nephew? Travis
 Elaine fractured arm [Lou](file:///var/mobile/Containers/Data/Application/36BE532E-156A-4629-83A0-F8D09E9E0C68/Documents/NoteBodyViewer.html?r=32741303#)

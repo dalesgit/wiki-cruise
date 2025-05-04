@@ -1,0 +1,2 @@
+## [[Portable retro PC]]
+  - [Evertop is a portable retro PC with an E Ink display and hundreds of hours of battery life - Liliputing](https://liliputing.com/evertop-is-a-portable-retro-pc-with-an-e-ink-displa

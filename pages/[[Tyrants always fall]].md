@@ -1,0 +1,2 @@
+## [[Tyrants always fall]]
+- [Tyrants like Trump always fall – and we can already predict how he will be dethroned | Simon Tisdall | The Guardian - www.theguardian.com](https://www.theguardian.com/commentisfree/2025/apr/27/donald-trump-us-constitution-president)

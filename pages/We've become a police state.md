@@ -1,0 +1,54 @@
+---
+- created: 2025-04-13T08:40:39 (UTC -11:00)
+- tags: []
+- source: [https://www.tampabay.com/news/pasco/2025/04/13/new-port-richey-immigration-police-ice/](https://www.tampabay.com/news/pasco/2025/04/13/new-port-richey-immigration-police-ice/)
+- author: Pat Morris
+---
+
+## We've become a police state
+- [New Port Richey council OKs police agreement with ICE. What that means. - www.tampabay.com](https://www.tampabay.com/news/pasco/2025/04/13/new-port-richey-immigration-police-ice/)
+- # New Port Richey council OKs police agreement with ICE. What that means.
+- > ## Excerpt
+- > Bertell Butler IV, the lone vote against joining the program, said he “won’t be bullied.”
+- ---
+- Bertell Butler IV was the lone member of the New Port Richey City Council to vote against entering into an agreement with the U.S. Department of Immigration and Customs Enforcement. The agreement would have city police officers trained by ICE, acting on that agency’s behalf and reporting to ICE when it conducts “operations” within the city limits.
+- At its regular meeting April 1, the council voted 4-1 to adopt the 287(g) agreement, which extends federal authority over local law enforcement operations. Under current law, all law enforcement officers already have the authority to detain anyone convicted of, or who has committed or is committing, a crime. When that crime is being in the U.S. illegally, they are required to inform federal authorities, who then take over.
+- Since 2019, Florida law has prohibited cities from having “sanctuary” policies, which include law enforcement failing to determine an individual’s immigration status, refusing to hold them based on their immigration status, limiting the time they detain individuals they hold for ICE and refusing to share an individual’s immigration status with federal authorities.
+- 
+- With those considerations in mind, at the April 1 meeting, New Port Richey Police Chief Robert Kochen asked the council to approve entering into the 287(g) agreement. City Attorney Timothy Driscoll recommended the council approve, citing, among other arguments, the consequences that could face the city government if it failed to comply.
+- ## Can they do it?
+- At the meeting, Butler disputed the state’s authority to compel municipal compliance.
+- “There is no state basis that compels us to enter into this agreement,” he said. “What has happened is that the state attorney general has made some comments because of Fort Myers that suggests that if we do not enter this agreement, we could face penalties. The one that they continue to cite is removal of the city officials who voted against the agreement.”
+- He cited the New Port Richey Police Department’s work in maintaining relationships with other law enforcement at all levels. “In my mind, this is a slap in the face … that the state cannot trust us to do what we think is necessary to protect our communities, and that they have to threaten our local officials.”
+- ## Keep up with Tampa Bay’s top headlines
+- Subscribe to our free DayStarter newsletter
+- We’ll deliver the latest news and information you need to know every morning.
+- ## You’re all signed up!
+- Want more of our free, weekly newsletters in your inbox? **Let’s get started.**
+- [Explore all your options](https://www.tampabay.com/newsletters/)
+- He characterized the council as likely to approve the agreement, which it did 4-1, while under undue stress and compunction. He said the agreement compels local police to do the work of the federal government with no additional compensation.
+- “It’s our overtime, it’s our resources, it’s our personnel doing what they already do,” he said. “If someone in our community commits a violent crime and they are undocumented, we already communicate with ICE. It has nothing to do with proper immigration. It compels political agreement. I won’t be bullied.”
+- During the discussion, council member Peter Altman noted the irony of an administration that touts decentralizing power demanding municipal council members vote the way it wants, but he did vote in favor of the agreement. Council member Matt Murphy expressed the belief that the measure, as played out, would not be as harsh as it can appear on paper.
+- “I think it’s more just to ensure that everybody is on the same page,” he said of the agreement, which Mayor Chopper Davis characterized as protecting citizens and registered voters. “We really have no choice,” said council member Kelly Mothershead.
+- ## What it means for New Port Richey
+- Kochen told Tampa Bay Newspapers that being party to the agreement does not mean the police department will be seeking out immigrants who are in the country illegally. He said officers are already able to, if they have probable cause, detain someone who is violating a law and whom they have reason to believe is in the country illegally. And, he said, previous Florida law already prohibits sanctuary policies.
+- Under 287(g), however, he said, “We will decide which officers will be trained by ICE. It’s a whole training course that they have to do, and they actually become almost like deputized by ICE, to work only with ICE under their supervision in ICE operations. So let’s just say we have several New Port Richey police officers that get this ICE certification based on this agreement. If ICE were to come in New Port Richey and say, ‘Hey, we have an operation, we know that there are 10 illegal immigrants at this location,’ they could activate our officers to work under their supervision and become involved in an operation.”
+- “Now,” he continued, “We can’t do this on our own. We can’t just say, ‘OK, now that we’re ICE-certified, we’re going to start doing illegal-immigrant raids. … We can’t just take this agreement and these trained officers and become our own mini-ICE agency.”
+- That said, he wrote in a directive to his department, “I am once again directing all officers to enforce Florida Law as it pertains to illegal immigrants in our jurisdiction and to fully cooperate with ICE officials if they request assistance from us.”
+- ## County compliance
+- As required by Florida law, all county sheriff departments also entered into the 287(g) agreement, most of them because those departments are mostly in charge of correctional facilities in their counties.
+- This is not the case in Pasco County, where jurisdiction over those facilities has passed to the county and not the sheriff’s office. Nevertheless, the Pasco County Sheriff’s Office is still compliant with the 287(g) agreement. Chase Daniels, undersheriff for community outreach, told Tampa Bay Newspapers that compliance with the agreement just simplifies what the sheriff’s office is already doing.
+- “We are anticipating putting in approximately 20 deputies through the training program, through ICE and the Department of Homeland Security,” he said. “They will essentially be able to enforce immigration laws as local law enforcement. Right now, that is reserved to the federal government.”
+- Daniels also said the agreement allows the sheriff’s office to take immigrants lacking permanent legal status to the county jail instead of the nearest federal holding facility. Aside from that, and access to a database that lists people the Department of Homeland Security already has on its radar, nothing much will change, he said.
+- ## Community fears
+- Kochen told Tampa Bay Newspapers that to his knowledge, ICE has not been active in the city.
+- “I don’t know of any major operations since I’ve been here in the last 2½ years,” he said. But, he added, “We had a change in administrations federally, so the philosophy’s changed. It seems apparent under the new administration that enforcement efforts under ICE are going to be ramped up. But I don’t know what that looks like for our city.”
+- That uncertainty is causing concern in the nonprofit community, as they fear their clients could be targeted by ICE. Many, especially those that are faith-based, serve clients without asking about their immigration status. Some also serve refugees from countries such as Ukraine, Cuba, Venezuela, Nicaragua and Haiti, who entered the county “the right way” but whose legal status is now in question under guidelines from the new administration, a fact they may not even realize.
+- New guidelines that criminalize what used to be protected behavior by people with valid visas, such as attending political protests and criticizing U.S. policy on social media, contribute to the fear. So do news reports of legal residents being held in inhumane conditions while their cases snake through the courts, denial of due process and extrajudicial deportations.
+- Staffers at local nonprofits who asked not to be identified told Tampa Bay Newspapers that they will no longer refer anyone not born in the U.S. — a question they never used to ask — to law enforcement outreach programs such as the sheriff’s office’s Community Response Unit and the police department’s L.I.F.T. team. At the meeting, Butler brought up some of those concerns.
+- “My chief concern, other than the waste of local resources on what is a federal issue, is the data-sharing component,” he said. “Our chief and his department have done a phenomenal job of building trust within our community with the L.I.F.T. program and victim advocacy. People do outreach to our police officers; they do seek help.”
+- With this agreement, though, he said, people may not be as inclined to come forward. He said a saving grace of the agreement is that cities have some room to maneuver on enforcement, and suggested that the council add language that would allow the city attorney and the police chief to create guidelines. These could include, for example, redacting data from L.I.F.T. and the victim’s advocate so that “we can go back to the community and say, ‘Look, it you’re reaching out because you’re homeless, we don’t care if you’re undocumented.‘”
+- “Let’s do this right,” he said. “Let’s be the first city in the state that passes this but that works with our agencies to make sure the accountability and transparency components are also attached to this memorandum of agreement.”
+- City Attorney Timothy Driscoll, however, recommended approval without any additional conditions. He warned the council that the governor does have the power to remove them from office, and it could also face hefty fines and other penalties if it did not toe the line.
+- “The very vote against this agreement would be evidence of not using best efforts,” he said. He told council members voting against the measure was their own peril and that of the city. Approval passed 4-1.
+- The city of Port Richey does not currently have a 287(g) agreement with ICE.

@@ -1,0 +1,2 @@
+## Trumps first 100 days
+  - [Trump's first 100 days bring 100 things that have changed (so far)](https://www.usatoday.com/story/news/politics/elections/2025/04/25/trump-100-days-changes-in-america/83042626007/)

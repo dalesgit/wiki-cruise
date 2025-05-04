@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/‘This is not comedy! Pay attention’ from Cabaret to Trump rallies, why does audience laughter feel so sinister  Donald Trump  The Guardian.md",
+                "file": "journal/2025-04-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "‘This is not comedy! Pay attention’ from Cabaret to Trump rallies, why does audience laughter feel so sinister  Donald Trump  The Guardian"
+              "title": "2025-04-30"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "browser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,8 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c87d6ef994010cab",
+  "active": "97954c298bc6f349",
   "lastOpenFiles": [
+    "journal/2025-04-12.md",
+    "journal/2025-04-30.md",
+    "merge-canada-us-greenland-history.md",
+    "journal/2025-04-08.md",
+    "workflowy-4-8-25.md",
     "clippings/legal",
     "journal/2025-03-24.md",
     "clippings/news",

@@ -1,0 +1,2 @@
+## [[Christians and sex]]
+[Christians and sex: An endlessly fascinating book explains the church's greatest obsession.](https://slate.com/culture/2025/04/lower-angels-diarmaid-macculloch-book-sex-christianity.html)

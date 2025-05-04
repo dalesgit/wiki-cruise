@@ -1,0 +1,27 @@
+Daily Plan - Saturday, March 29, 2025
+#journal
+Things to do:
+
+
+
+Reflection
+I’m challenged today by:
+I’m so tired. Need time to myself. Need to be heard. Prayer?
+Holland seems less than responsive. 
+
+What I did well today:
+
+
+What I’ve learned today:
+“It’s me oh Lord, Standing in the need of prayer.”
+> “Merciful God, all I can give you, and all you ever want, is who I really am. This little woman or little man that I am now gives you back my only and true self.” Rohr (for this day Wondrous love)
+Gratitude
+Poignant and deeply felt parting with Mark and Marcia #names and Roger and Patrick. Night night too dear friends. 
+Tie me kangaroo down: Rolf Harris
+Oceania by Eli
+Terrible history of aboriginal people in Australia (Cpt Cooke: like wild animals)
+not citizens until quite recently
+n.b. that our friend Mark is against the compensation story because he himself is a recent immigrant.
+Aboriginal person working at the Sydney Museum of ... cultural? history?
+Chris Yee
+player of digereedoo and art telling narrative with dot paintings.

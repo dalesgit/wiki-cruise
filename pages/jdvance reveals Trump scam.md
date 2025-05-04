@@ -1,0 +1,42 @@
+# JD Vance Accidentally Wrecks Trump’s Vile Scam on Abrego Garcia Case | The New Republic
+JD Vance has been tweeting relentlessly in defense of his master’s decision to leave Kilmar Abrego Garcia rotting in an El Salvadoran prison—despite judicial rulings [declaring](https://www.supremecourt.gov/opinions/24pdf/24a949_lkhn.pdf) the move illegal.
+
+In these tweets, Vance works himself up into a frenzy of self-regard and high dudgeon, [sneering](https://x.com/JDVance/status/1912562395018387636) at “the left” for not engaging his arguments. Yet he blithely ignores actual efforts at engagement with him, and the arguments he does make are [embarrassingly weak](https://x.com/GregTSargent/status/1912549727914045559). The disconnect is cringeworthy.
+
+Case in point: Vance’s latest tweet on this saga.
+
+> Call me crazy but if you got two hearings and a valid deportation order then you shouldn’t be in the United States.
+> 
+> — JD Vance (@JDVance) [April 18, 2025](https://twitter.com/JDVance/status/1913155654090391720?ref_src=twsrc%5Etfw)
+
+I wouldn’t call this “crazy,” but I would call it “smug,” “dumb,” “repugnant,” and even “revealing.” Vance’s suggestion that Abrego Garcia is subject to a “valid deportation order” actually undermines President Donald Trump’s fraudulent case that he has no duty to return Abrego Garcia to the United States. It forcefully demonstrates why the administration is obliged to bring him back and give him due process—which officials refuse to do.
+
+Here’s why. The status that Vance refers to here is “withholding of removal,” which a judge granted to the Salvadoran Abrego Garcia in 2019. This prohibited his deportation to El Salvador, but it didn’t preclude removal to a third country. This status is a bit murky: In essence, the [government is recognizing](https://www.americanimmigrationcouncil.org/sites/default/files/research/the_difference_between_asylum_and_withholding_of_removal.pdf) that he is living and working here lawfully as long as it isn’t moving to deport him elsewhere.
+
+Here’s what this means: If the Trump administration wanted to remove Abrego Garcia, it could always have tried to recontest his “withholding of removal” status and send him to El Salvador that way. Alternatively, it could have moved to deport him to a different country. Even now, the government has the option of returning him and [pursuing one of those lawful channels](https://newrepublic.com/article/193943/trump-kilmar-garcia-maryland-salvador-removal-error).
+
+When Vance claims that Abrego Garcia is validly subject to deportation, _he’s effectively admitting that the administration does have those alternative options_. Remember, the Supreme Court [declared](https://www.supremecourt.gov/opinions/24pdf/24a949_lkhn.pdf) Abrego Garcia’s current removal “illegal.” Trump has the option of moving to deport him in a way that _is not_ illegal. Why not bring him back and do this the lawful way? The question remains unanswered.
+
+As an aside, Vance [keeps saying](https://x.com/GregTSargent/status/1912549727914045559) that Abrego Garcia already received due process when he was granted that “withholding of removal” status. But note Vance’s slippery trick: He is claiming this without acknowledging that _the government has now deported him illegally, in violation of that very status_. It is this affirmative act by Vance’s own government that triggers the need for due process once again.
+
+All this has just assumed new importance for another reason, due to a new ruling by a conservative judge, J. Harvie Wilkinson. The 4th Circuit appeals court [shot down](https://www.politico.com/news/2025/04/17/abrego-garcia-appeal-wilkinson-00298063) Trump’s efforts to dodge responsibility to return him, and the [ruling](https://static01.nyt.com/newsgraphics/documenttools/42698931654973a1/2eba7934-full.pdf) is getting attention for its scorching rebuke of Trump’s lawlessness.
+
+But I’d like to highlight this portion (bolding mine):
+
+> The government asserts that Abrego Garcia is a terrorist and a member of MS-13. Perhaps, but perhaps not. Regardless, he is still entitled to due process. **If the government is confident of its position, it should be assured that position will prevail in proceedings to terminate the withholding of removal order.**
+
+The case that Abrego Garcia is an MS-13 member is [exceptionally weak](https://newrepublic.com/article/194010/kilmar-abrego-garcia-case-trump-deported-error-another-hit). But note the court’s declaration: Even if he _were_ a gang member, it would mean that the government would be on firmer ground in bringing him back and recontesting his “withholding of removal” order. This conservative judge is reiterating my question above: That’s always an option for the administration to take; why won’t it do so?
+
+All this has big political implications, too. After Democratic Senator Chris Van Hollen met with Abrego Garcia in El Salvador, generating [powerful imagery](https://www.nbcnews.com/politics/immigration/chris-van-hollen-meets-kilmar-abrego-garcia-el-salvador-rcna201830) nationally, Trump adviser Stephen Miller [made a big show](https://x.com/RapidResponse47/status/1913040716999037074) of claiming this debate favors Trump, because Democrats are becoming the party that “fights for illegal aliens.”
+
+Politico’s Zack Stanton [points out](https://www.politico.com/newsletters/playbook/2025/04/18/postcard-from-el-salvador-00298293) that this is how Miller _hopes_ the story is publicly understood. That’s true, but let’s say more about what this means. Lots of polling shows that while Trump enjoys generalized approval on immigration, there’s [broad public disapproval on specifics](https://www.gelliottmorris.com/p/trumps-immigration-agenda-isnt-popular) like deporting people who have been here for more than 10 years or haven’t been convicted of non-immigration-related crimes.
+
+Abrego Garcia fits both those bills. Indeed, this is almost certainly why the administration won’t bring him back: If he were returned, and the administration moved to retry him for deportation, his alleged MS-13 status would be formally litigated again. Trump might actually fail in this effort, shattering impressions of his power to act lawlessly with impunity, which he’s cultivating to spread terror and breed submission. Beyond that, the focus would grow more intense on the life Abrego Garcia [has created here](https://www.nytimes.com/2025/04/04/us/politics/el-salvador-deportation-migrant-trump.html) as a metal-worker who is married to a U.S. citizen with three children and regularly checked in with law enforcement, as his status required. These are the people majorities _don’t_ want deported.
+
+As it happens, as G. Elliott Morris details, [polling also shows](https://www.gelliottmorris.com/p/trumps-immigration-agenda-isnt-popular) broad disapproval of other particular moves—like deporting people to foreign prisons and removing people in defiance of courts. In short, neither option—bringing him back or ignoring courts to leave him in El Salvador—is good politics for Trump.
+
+The only way Trump wins the argument is if he can subsume all these specifics—deporting longtime nonviolent residents, flouting courts, conspiring with fellow dictators to stash people in foreign gulags—under the rubric of fighting “illegal aliens.” But why assume he’s succeeding at that? The more media attention Vance and Trump bring to this case, the less likely that becomes. This is also a reason for Democrats to do more to spotlight particularized horrors. If Democrats don’t engage, they’ll only make it easier for Trump and Miller to recast those specifics as “hey, we’re just keeping out illegals.”
+
+In the end, what makes Vance’s stance so reprehensible is that he knows the administration has the option of returning Abrego Garcia and moving to deport him through lawful channels, as Vance’s own tweet demonstrates. But he’s defending the decision to leave him in a foreign prison instead, perhaps for life.
+
+Does Vance really think that outcome would be a more proportional punishment for his transgression of entering the country illegally at the age of 16, as Abrego Garcia did, than removing him more conventionally would be? If so, Vance is morally deranged. If not, he’s knowingly defending the indefensible. If voters can be made to see that this is the true nature of the choice Vance and Trump are making, they’d surely recoil.

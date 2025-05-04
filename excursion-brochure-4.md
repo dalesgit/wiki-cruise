@@ -1112,7 +1112,9 @@ End your outing with a scenic journey down
 Ali'i Drive, along the coastline and through
 the heart of lively, historical Kailua-Kona
 town.
+
 Notes:
+
 At Kona Natural Soap there is walking
 involved and the walking does include a slight
 elevation. This tour may not be appropriate

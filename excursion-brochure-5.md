@@ -74,6 +74,7 @@ shortbread cookies dipped in chocolate.
 frequently; participate at your own risk.
 
 ## Hawaii Volcanoes National Park & Gardens
+
 Departs: 8:30 AM, 12:30 PM
 Approximately 3½ Hours
 Adult $179.95; Child $169.95
@@ -107,7 +108,7 @@ biodegradable sunscreen. Bring bottled water.
 Minimum age is 10 years. Minimum age to
 drink alcohol is 21 years. Natural sulfur gases
 may affect those with respiratory conditions.
-<a>Kilauea is an active volcano and erupts
+Kilauea is an active volcano and erupts
 
 Visit Liliuokalani Gardens, the largest
 ornamental Japanese garden outside of Japan.

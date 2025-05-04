@@ -1,0 +1,2 @@
+## [[Boomers good pedagogy]]
+- [7 things boomers got right about raising children, according to psychology - Hack Spirit - hackspirit.com](https://hackspirit.com/dan-things-boomers-got-right-about-raising-children-according-to-psychology/)
