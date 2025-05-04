@@ -22,17 +22,23 @@
             }
           },
           {
-            "id": "563dfd2c10e7cd7a",
+            "id": "44d225f819ff3ccb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/re. the election of new bishop.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "re. the election of new bishop"
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a00896db6e117236",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -160,8 +166,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -170,8 +176,8 @@
         "state": {
           "type": "tags-overview-view",
           "state": {},
-          "icon": "tag",
-          "title": "Tags overview"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -180,8 +186,8 @@
         "state": {
           "type": "mermaid-toolbar-view",
           "state": {},
-          "icon": "trident-custom",
-          "title": "Mermaid Toolbar"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -190,8 +196,8 @@
         "state": {
           "type": "advanced-tables-toolbar",
           "state": {},
-          "icon": "spreadsheet",
-          "title": "Advanced Tables"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -212,8 +218,8 @@
   },
   "active": "c526cc14fea82fe8",
   "lastOpenFiles": [
-    "pages/re. the election of new bishop.md",
     "journal/2025-05-03.md",
+    "pages/re. the election of new bishop.md",
     "pages/Those who go it alone as they get older.md",
     "pages/magnesium supplement - how to.md",
     "pages/logevity breakfast.md",
