@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "de879835cfa679fb",
+        "id": "d6e97ca9e5fd3c98",
         "type": "tabs",
         "children": [
           {
-            "id": "62ae55538819553f",
+            "id": "ceb26476bbd4c5b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-05-07.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-05-07"
+              "title": "New tab"
             }
           }
         ]
@@ -79,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "767ff40b335ccacd",
@@ -181,10 +176,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "62ae55538819553f",
+  "active": "ceb26476bbd4c5b3",
   "lastOpenFiles": [
-    "pages/elon-musks-power-grab.md",
+    "journal/2025-05-09.md",
+    "pages/6 open-source tools.md",
     "journal/2025-05-07.md",
+    "pages/elon-musks-power-grab.md",
     "journal/2025-05-06.md",
     "journal/2025-05-05.md",
     "pages/room where NAZI Germany surrendered.md",
