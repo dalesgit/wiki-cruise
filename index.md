@@ -1,5 +1,6 @@
 # This is an index
 
+- [[Questions for the church]]
 ## Names
 
 People and notes about them
