@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "64675b5707705fb9",
+        "id": "d6e97ca9e5fd3c98",
         "type": "tabs",
         "children": [
           {
-            "id": "97954c298bc6f349",
+            "id": "ceb26476bbd4c5b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-04-30.md",
+                "file": "workflowy-4-8-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "2025-04-30"
             }
           },
@@ -33,10 +34,12 @@
               },
               "icon": "lucide-file",
               "title": "2025-07-13"
+=======
+              "title": "workflowy-4-8-25"
+>>>>>>> 718634cf288dedaef49a912ec72ec0ef1843c8ee
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +58,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -68,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "browser",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +92,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,8 +173,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -195,12 +197,34 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8d2b9f0c3748b05a",
+  "active": "ceb26476bbd4c5b3",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "journal/2025-05-03.md",
     "journal/2025-07-13.md",
     "journal/2025-04-12.md",
+=======
+    "pages/6 open-source tools.md",
+    "pages/What is required of me in the church.md",
+    "pages/What to do with church.md",
+    "journal/2025-05-14.md",
+    "journal/2025-05-09.md",
+    "journal/2025-05-07.md",
+    "pages/elon-musks-power-grab.md",
+    "journal/2025-05-06.md",
+    "journal/2025-05-05.md",
+    "pages/room where NAZI Germany surrendered.md",
+    "pages/Note taking with Google.md",
+    "pages/Things to watch out for in retirement.md",
+    "pages/dissident MAGA catholic priests on the conclave.md",
+    "pages/On This Day in 1968, Buffalo Springfield Split—Making Way for Two Iconic Classic Rock Bands.md",
+>>>>>>> 718634cf288dedaef49a912ec72ec0ef1843c8ee
     "journal/2025-04-30.md",
+    "pages/The destruction of the doj.md",
+    "journal/2025-05-04.md",
+    "pages/7 tiny habits that make people dislike you almost instantly.md",
+    "journal/2025-05-03.md",
+    "journal/2025-04-12.md",
     "merge-canada-us-greenland-history.md",
     "journal/2025-04-08.md",
     "workflowy-4-8-25.md",
@@ -208,7 +232,6 @@
     "journal/2025-03-24.md",
     "clippings/news",
     "journal/2025-03-17.md",
-    "journal/2025-03-08.md",
-    "2025-03-08.md"
+    "journal/2025-03-08.md"
   ]
 }

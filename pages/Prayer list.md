@@ -11,6 +11,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 
 ### Current
 
+Roxanne on our aisle 5/4
 ~~destruction / recovery in LA~~
 Julie: brain lymphoma
 ~~The young woman at El Texana undocumented.~~
@@ -18,7 +19,7 @@ Pam (Sarah’s friend with neoblastoma) Husband with Parkinson’s
 [Karen](file:///var/mobile/Containers/Data/Application/36BE532E-156A-4629-83A0-F8D09E9E0C68/Documents/NoteBodyViewer.html?r=32741303#)’s nephew? Travis
 Elaine fractured arm [Lou](file:///var/mobile/Containers/Data/Application/36BE532E-156A-4629-83A0-F8D09E9E0C68/Documents/NoteBodyViewer.html?r=32741303#)
 Belva and Chuck (MP)
-Betty and Rich Purchase (his struggle with his health) Surgery went well. - Betty & Dick Purchase (his mersa and prep for surgery)
+Betty and Rich Purchase (his struggle with his health) Surgery went well. - Betty & Dick Purchase (his mersa and prep for surgery) in church 5/4
 [correspondents](file:///var/mobile/Containers/Data/Application/36BE532E-156A-4629-83A0-F8D09E9E0C68/Documents/NoteBodyViewer.html?r=32741303#)
 [Robert and Christine](file:///var/mobile/Containers/Data/Application/36BE532E-156A-4629-83A0-F8D09E9E0C68/Documents/NoteBodyViewer.html?r=32741303#)
 Gail and brother Bob, Teresa CA. Bob no side effects from surgery and doing amazingly
