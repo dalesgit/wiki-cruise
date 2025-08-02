@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "76044bea783595c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6e97ca9e5fd3c98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb26476bbd4c5b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-07-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+<<<<<<< HEAD:.obsidian/workspace.json
+              "title": "2025-07-11"
+=======
+<<<<<<< HEAD
+              "title": "2025-04-30"
+            }
+          },
+          {
+            "id": "8d2b9f0c3748b05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-07-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-13"
+=======
+              "title": "workflowy-4-8-25"
+>>>>>>> 718634cf288dedaef49a912ec72ec0ef1843c8ee
+>>>>>>> ef05397b088464b8b2214364a665d4c2882fd87b:.obsidian/workspace-bak.json
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "698074780bfa83b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "62f25d2001e7e013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c87d6ef994010cab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "23e186bd1a3b9623",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#names",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94030655a3392a2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "767ff40b335ccacd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b71b48a6249784c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a019eaad83a4dc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journal/2025-07-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-07-11"
+            }
+          },
+          {
+            "id": "281b6ae73df4e652",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3771bff0456a1641",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef6f99d7f319a2ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "94c8800f1f699719",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "229fd76d33324f10",
+            "type": "leaf",
+            "state": {
+              "type": "tags-overview-view",
+              "state": {},
+              "icon": "tag",
+              "title": "Tags overview"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "tags-overview:Tags overview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "23e186bd1a3b9623",
+  "lastOpenFiles": [
+<<<<<<< HEAD:.obsidian/workspace.json
+    "Mar-24,-2025-Markdown-Writing-and-Previewing-in-Neovim----A-Complete-Guide-·-jdhao's-digital-space.md",
+    "pages/Better browsers for android.md",
+    "pages/workflowy-4-8-25.md",
+    "journal/2025-04-28.md",
+    "journal/2025-04-27.md",
+    "clippings_/Jewish Losses during the Holocaust By Country  Holocaust Encyclopedia.md",
+    "Mark & Jenine.md",
+    "journal/2025-07-11.md",
+    "workflowy-4-8-25.md",
+=======
+<<<<<<< HEAD
+    "journal/2025-05-03.md",
+    "journal/2025-07-13.md",
+    "journal/2025-04-12.md",
+=======
+>>>>>>> ef05397b088464b8b2214364a665d4c2882fd87b:.obsidian/workspace-bak.json
+    "pages/6 open-source tools.md",
+    "pages/What is required of me in the church.md",
+    "pages/What to do with church.md",
+    "journal/2025-05-14.md",
+    "journal/2025-05-09.md",
+    "journal/2025-05-07.md",
+    "pages/elon-musks-power-grab.md",
+    "journal/2025-05-06.md",
+    "journal/2025-05-05.md",
+    "pages/room where NAZI Germany surrendered.md",
+    "pages/Note taking with Google.md",
+    "pages/Things to watch out for in retirement.md",
+    "pages/dissident MAGA catholic priests on the conclave.md",
+    "pages/On This Day in 1968, Buffalo Springfield Split—Making Way for Two Iconic Classic Rock Bands.md",
+>>>>>>> 718634cf288dedaef49a912ec72ec0ef1843c8ee
+    "journal/2025-04-30.md",
+    "pages/The destruction of the doj.md",
+    "journal/2025-05-04.md",
+    "clippings/legal",
+    "clippings/news"
+  ]
+}
