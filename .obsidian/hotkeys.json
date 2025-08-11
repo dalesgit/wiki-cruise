@@ -90,15 +90,6 @@
     }
   ],
   "file-explorer:new-file-in-new-pane": [],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
@@ -106,6 +97,15 @@
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }
