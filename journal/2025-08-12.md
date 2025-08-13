@@ -1,0 +1,24 @@
+## Things to do
+
+- [ ]
+
+## Reflection
+
+
+### I'm challenged by
+
+- 
+
+### What I did well today
+
+- 
+
+### What I've learned today
+
+- 
+
+## Things I'm grateful for
+
+-
+
+---

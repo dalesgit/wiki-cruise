@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-08-11.md",
+                "file": "journal/2025-08-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-11"
+              "title": "2025-08-12"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "812f1df8ea39ee8b",
@@ -186,8 +185,9 @@
   },
   "active": "a52a74f2dab64111",
   "lastOpenFiles": [
-    "journal/2025-03-05.md",
     "journal/2025-08-11.md",
+    "journal/2025-08-12.md",
+    "journal/2025-03-05.md",
     "pages/Aug Trip.md",
     "pages/Wild Goose Thurs evening.md",
     "pages/workflowy-4-8-25.md",
